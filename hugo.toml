@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'João A. S. Amarante'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  author = "João A. S. Amarante"
+  description = "Academic website"
+  homeInfoParams = {}
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "GASTRO"
+    url = "/gastro/"
+    weight = 2
+  
+  
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Journal Club"
+    url = "/jc/"
+    weight = 4
+  
+  [[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 5
+  
+
