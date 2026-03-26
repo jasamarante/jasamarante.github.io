@@ -4,6 +4,8 @@ theme = "PaperMod"
 languageCode = "en-us"
 paginate = 10
 
+baseURL = "https://jasamarante.github.io/"
+
 [params]
   author = "João A. S. Amarante"
   description = "Academic website"

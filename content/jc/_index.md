@@ -1,6 +1,6 @@
 
 
-Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the Galaxy Dynamics Group meeting at UCLan [here](/jc/uclan/), and during the  Milky Way Brazilian group meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
+Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the <span style="color: orange;">Galaxy Dynamics Group</span> meeting at UCLan [here](/jc/uclan/), and during the  Milky Way Brazilian group meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
 ### March 2026:
 
