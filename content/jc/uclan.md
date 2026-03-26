@@ -1,9 +1,10 @@
 ---
-title: "Victor Debattista's Galaxy Dynamics group Journal Club"
+
 date: 2026-03-26
-draft: false
+
 ---
 
+Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
 ### March 10th 2026:
 

@@ -9,64 +9,12 @@
     <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MWBR  Journal Club</title>
-      <link>http://localhost:1313/jc/mwbr/</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jc/mwbr/</guid>
-      <description>&lt;h2 id=&#34;march-25th-2026&#34;&gt;March 25th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Thayse: &lt;a href=&#34;https://arxiv.org/abs/2603.11814&#34;&gt;Chemo-dynamical reconstruction of Milky Way globular cluster progenitors: age&amp;ndash;metallicity relations and the universality of multiple stellar populations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2506.11846&#34;&gt;An Ultra-Faint, Chemically Primitive Galaxy Forming in the Reionization Era&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;martch-18th-2026&#34;&gt;Martch 18th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;André: &lt;a href=&#34;https://iopscience.iop.org/article/10.3847/1538-4365/ae4221&#34;&gt;Identifying ∼20,000 Li-rich Giants in the LAMOST Low-resolution Survey&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;march-11th-2026&#34;&gt;March 11th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2602.21171&#34;&gt;Scattering, Migration, Re-circularization and Relaxation to Build Out Galaxy Disks with Exponential Profiles&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;march-4th-2026&#34;&gt;March 4th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2602.17652&#34;&gt;A Chemodynamical Census of the Milky Way&amp;rsquo;s Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ingrid: &lt;a href=&#34;https://arxiv.org/abs/2510.08684&#34;&gt;A Vertically Orientated Dark Matter Halo Marks a Flip of the Galactic Disk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;february-11th-2026&#34;&gt;February 11th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2601.18896&#34;&gt;Proof that the Milky Way experienced a significant merger only 1.5 billion years after the Big Bang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;João: &lt;a href=&#34;https://arxiv.org/abs/2309.11545&#34;&gt;Galaxy archaeology for wet mergers: Globular cluster age distributions in the Milky Way and nearby galaxies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;february-04th-2026&#34;&gt;February 04th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Nayara: &lt;a href=&#34;https://arxiv.org/abs/2601.18876&#34;&gt;The Milky Way’s circular velocity curve measured using element abundance gradients&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Otavio: &lt;a href=&#34;https://arxiv.org/abs/2601.02520&#34;&gt;The origin of strong α-element bimodalities in FIRE simulations of Milky Way-mass galaxies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;january-28th-2026&#34;&gt;January 28th 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Joao: &lt;a href=&#34;http://arxiv.org/abs/2601.18567&#34;&gt;Ancient relic moderately metal-rich bulge cluster Tonantzintla 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hélio: &lt;a href=&#34;https://arxiv.org/abs/2510.08688&#34;&gt;That&amp;rsquo;s so Retro: The Gaia-Sausage-Enceladus Merger Trajectory as the Origin of the Chemical Abundance Bimodality in the Milky Way Disk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;january-21st-2026&#34;&gt;January 21st 2026:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2601.03339&#34;&gt;Early thin-disc assembly revealed by JWST edge-on galaxies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2511.01733&#34;&gt;A Possible &amp;ldquo;Too-Many-Satellites&amp;rdquo; Problem in the Isolated Dwarf Galaxy DDO 161&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;december-17th-2025&#34;&gt;December 17th 2025:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Hélio: &lt;a href=&#34;https://arxiv.org/abs/2511.10092&#34;&gt;Impact of selection criteria on the structural parameters of the Galactic thin and thick discs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;december-3rd-2025&#34;&gt;December 3rd 2025:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2410.21370&#34;&gt;An Indication of Gas Inflow in Clumpy Star-Forming Galaxies near z~1: Lower Gas-Phase Metallicities in Clumpy Galaxies Compared to Non-Clumpy Galaxies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;5-min self-authorship talks:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Victor Debattista&#39;s Galaxy Dynamics group Journal Club</title>
+      <title></title>
       <link>http://localhost:1313/jc/uclan/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/jc/uclan/</guid>
-      <description>&lt;h3 id=&#34;march-10th-2026&#34;&gt;March 10th 2026:&lt;/h3&gt;
+      <description>&lt;p&gt;Here&amp;rsquo;s the list of papers discussed during the journal club of Prof. Victor Debattista&amp;rsquo;s Galaxy Dynamics Group.&lt;/p&gt;
+&lt;h3 id=&#34;march-10th-2026&#34;&gt;March 10th 2026:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Benjamin: &lt;a href=&#34;https://arxiv.org/abs/2601.20941&#34;&gt;What drives bar rotation? The effect of internal properties and galaxy interactions on bar pattern speeds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -847,6 +795,59 @@ bar formation in TNG50&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Steven: &lt;a href=&#34;https://arxiv.org/abs/1909.07548&#34;&gt;Age Dating the Galactic Bar with the Nuclear Stellar Disc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tigran: &lt;a href=&#34;https://arxiv.org/abs/1904.03314v3&#34;&gt;Dissecting the Phase Space Snail Shell&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>MWBR  Journal Club</title>
+      <link>http://localhost:1313/jc/mwbr/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jc/mwbr/</guid>
+      <description>&lt;h3 id=&#34;march-25th-2026&#34;&gt;March 25th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thayse: &lt;a href=&#34;https://arxiv.org/abs/2603.11814&#34;&gt;Chemo-dynamical reconstruction of Milky Way globular cluster progenitors: age&amp;ndash;metallicity relations and the universality of multiple stellar populations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2506.11846&#34;&gt;An Ultra-Faint, Chemically Primitive Galaxy Forming in the Reionization Era&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;martch-18th-2026&#34;&gt;Martch 18th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;André: &lt;a href=&#34;https://iopscience.iop.org/article/10.3847/1538-4365/ae4221&#34;&gt;Identifying ∼20,000 Li-rich Giants in the LAMOST Low-resolution Survey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;march-11th-2026&#34;&gt;March 11th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2602.21171&#34;&gt;Scattering, Migration, Re-circularization and Relaxation to Build Out Galaxy Disks with Exponential Profiles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;march-4th-2026&#34;&gt;March 4th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2602.17652&#34;&gt;A Chemodynamical Census of the Milky Way&amp;rsquo;s Ultra-Faint Compact Satellites. I. A First Population-Level Look at the Internal Kinematics and Metallicities of 19 Extremely-Low-Mass Halo Stellar Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ingrid: &lt;a href=&#34;https://arxiv.org/abs/2510.08684&#34;&gt;A Vertically Orientated Dark Matter Halo Marks a Flip of the Galactic Disk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;february-11th-2026&#34;&gt;February 11th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2601.18896&#34;&gt;Proof that the Milky Way experienced a significant merger only 1.5 billion years after the Big Bang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;João: &lt;a href=&#34;https://arxiv.org/abs/2309.11545&#34;&gt;Galaxy archaeology for wet mergers: Globular cluster age distributions in the Milky Way and nearby galaxies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;february-04th-2026&#34;&gt;February 04th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Nayara: &lt;a href=&#34;https://arxiv.org/abs/2601.18876&#34;&gt;The Milky Way’s circular velocity curve measured using element abundance gradients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Otavio: &lt;a href=&#34;https://arxiv.org/abs/2601.02520&#34;&gt;The origin of strong α-element bimodalities in FIRE simulations of Milky Way-mass galaxies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;january-28th-2026&#34;&gt;January 28th 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Joao: &lt;a href=&#34;http://arxiv.org/abs/2601.18567&#34;&gt;Ancient relic moderately metal-rich bulge cluster Tonantzintla 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hélio: &lt;a href=&#34;https://arxiv.org/abs/2510.08688&#34;&gt;That&amp;rsquo;s so Retro: The Gaia-Sausage-Enceladus Merger Trajectory as the Origin of the Chemical Abundance Bimodality in the Milky Way Disk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;january-21st-2026&#34;&gt;January 21st 2026:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2601.03339&#34;&gt;Early thin-disc assembly revealed by JWST edge-on galaxies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guilherme: &lt;a href=&#34;https://arxiv.org/abs/2511.01733&#34;&gt;A Possible &amp;ldquo;Too-Many-Satellites&amp;rdquo; Problem in the Isolated Dwarf Galaxy DDO 161&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;december-17th-2025&#34;&gt;December 17th 2025:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hélio: &lt;a href=&#34;https://arxiv.org/abs/2511.10092&#34;&gt;Impact of selection criteria on the structural parameters of the Galactic thin and thick discs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;december-3rd-2025&#34;&gt;December 3rd 2025:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lais: &lt;a href=&#34;https://arxiv.org/abs/2410.21370&#34;&gt;An Indication of Gas Inflow in Clumpy Star-Forming Galaxies near z~1: Lower Gas-Phase Metallicities in Clumpy Galaxies Compared to Non-Clumpy Galaxies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5-min self-authorship talks:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
