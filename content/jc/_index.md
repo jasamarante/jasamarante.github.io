@@ -1,7 +1,15 @@
 
 
-Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the <span style="color: orange;">Galaxy Dynamics Group</span> meeting at UCLan [here](/jc/uclan/), and during the  Milky Way Brazilian group meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
+Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+### March 2026:
+
+* [Phase spirals across galactic disks I: Exploring dynamical influences on winding](https://arxiv.org/abs/2603.23588)
+* [Direct Evidence for Stellar Initial Mass Function Variation in the Milky Way](https://arxiv.org/abs/2603.23594)
+* [The impact of disc disruption on Milky Way satellite counts](https://arxiv.org/abs/2603.23600)
+* [A Catalog of 1,408 Carbon-Enhanced Metal-Poor Stars from LAMOST DR11](https://arxiv.org/abs/2603.24040)
+* [The Fate of the Milky Way--Andromeda System: To Merge or Not?](https://arxiv.org/abs/2603.22863)
+* [The time-delay model and its applications to galactic archaeology](https://arxiv.org/abs/2603.23066)
 ### March 2026:
 
 * [Phase spirals across galactic disks I: Exploring dynamical influences on winding](https://arxiv.org/abs/2603.23588)
