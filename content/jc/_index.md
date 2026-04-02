@@ -1,9 +1,15 @@
+---
+
+date: 2026-04-02
+
+---
 
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
 ## April 2026:
 
+* [Distance and [Fe/H] of Galactic bulge clusters from member RR Lyrae I-band light curves](https://arxiv.org/abs/2604.01067)
 * [Homogeneous stellar parameters for 717,807 TESS FGK stars using Gaia DR3](https://arxiv.org/abs/2603.29817)
 * [Distribution function-based modelling of discrete kinematic datasets, in application to the Milky Way nuclear star cluster](https://arxiv.org/abs/2603.29502)
 * [Constraining the Galactic bar and spiral pattern speeds with the Hyades tidal stream](https://arxiv.org/abs/2603.29360)
