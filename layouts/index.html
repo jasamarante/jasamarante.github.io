@@ -1,4 +1,12 @@
 {{- define "main" }}
+<style>
+  .content-area p {
+    margin-bottom: 1.2em;
+  }
+  .content-area p:last-child {
+    margin-bottom: 0;
+  }
+</style>
 <div style="max-width: 100%; display: flex; gap: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="/img/me2.png" alt="João A. S. Amarante" style="width: 200px; border-radius: 50px;">
@@ -6,8 +14,7 @@
       <a href="mailto:joaoant at gmail.com" style="font-size: 32px; text-decoration: none;">✉️</a>
     </div>
   </div>
-  <div style="flex: 1; max-width: 80%;">
-  
+  <div style="flex: 1; max-width: 80%;" class="content-area">
     {{ .Content }}
   </div>
 </div>
