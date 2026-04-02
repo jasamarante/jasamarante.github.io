@@ -4,6 +4,11 @@ date: 2026-03-26
 draft: false
 ---
 
+### March 31st 2026:
+
+* João: [GSE vs. LMC: reshaping of radially biased stellar haloes by satellites](https://arxiv.org/abs/2603.11159)
+
+
 ### March 25th 2026:
 
 * Thayse: [Chemo-dynamical reconstruction of Milky Way globular cluster progenitors: age--metallicity relations and the universality of multiple stellar populations](https://arxiv.org/abs/2603.11814)
@@ -34,7 +39,7 @@ draft: false
 
 ### January 28th 2026:
 
-* Joao: [Ancient relic moderately metal-rich bulge cluster Tonantzintla 2](http://arxiv.org/abs/2601.18567)
+* João: [Ancient relic moderately metal-rich bulge cluster Tonantzintla 2](http://arxiv.org/abs/2601.18567)
 * Hélio: [That's so Retro: The Gaia-Sausage-Enceladus Merger Trajectory as the Origin of the Chemical Abundance Bimodality in the Milky Way Disk](https://arxiv.org/abs/2510.08688)
 
 ### January 21st 2026:

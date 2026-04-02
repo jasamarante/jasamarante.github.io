@@ -6,6 +6,10 @@ date: 2026-03-26
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+### March 17th 2026:
+
+* Matt: [The detectability of bars at high redshift: a case study using Euclid-like mock observations of TNG50 simulated galaxies](https://arxiv.org/abs/2601.16335)
+
 ### March 10th 2026:
 
 * Benjamin: [What drives bar rotation? The effect of internal properties and galaxy interactions on bar pattern speeds](https://arxiv.org/abs/2601.20941)

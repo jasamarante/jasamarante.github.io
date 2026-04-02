@@ -4,6 +4,13 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ### March 2026:
 
+* [Homogeneous stellar parameters for 717,807 TESS FGK stars using Gaia DR3](https://arxiv.org/abs/2603.29817)
+* [Distribution function-based modelling of discrete kinematic datasets, in application to the Milky Way nuclear star cluster](https://arxiv.org/abs/2603.29502)
+* [Constraining the Galactic bar and spiral pattern speeds with the Hyades tidal stream](https://arxiv.org/abs/2603.29360)
+* [Ripples of Stellar Enrichment (RoSE) -- simulating element production and mixing in the Milky Way star-by-star](https://arxiv.org/abs/2603.29242)
+* [The average X-ray spectrum of the volume-complete M-, F-, G-, and K-type star sample within 10 pc of the Sun](https://arxiv.org/abs/2603.28751)
+* [Bulge Fossil Fragments as a new population of factories of gravitational wave sources in the Galaxy](https://arxiv.org/abs/2603.25127)
+* [Bar Properties and Star-by-Star Bar Membership via Action Conservation](https://arxiv.org/abs/2603.24952)
 * [Phase spirals across galactic disks I: Exploring dynamical influences on winding](https://arxiv.org/abs/2603.23588)
 * [Direct Evidence for Stellar Initial Mass Function Variation in the Milky Way](https://arxiv.org/abs/2603.23594)
 * [The impact of disc disruption on Milky Way satellite counts](https://arxiv.org/abs/2603.23600)
