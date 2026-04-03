@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [Multiplicity of Massive stars in the Milky Way (M3W). I. Project description, UNWIND, application to GLS 11 448, and DIB catalog](https://arxiv.org/abs/2604.02111)
+* [Tree-ring structure of Galactic bar resonance in N-body simulations](https://arxiv.org/abs/2604.01294)
+* [The velocity field of our Milky Way outer stellar halo based on DESI DR2](https://arxiv.org/abs/2604.01628)
+* [The Galactic Halo Rotation by Weyl Incorporated Gravity](https://arxiv.org/abs/2604.01643)
+* [Milky-Way-like stars in a galaxy core 8 billion years ago revealed by gravitational lensing](https://arxiv.org/abs/2604.01828)
 * [Distance and [Fe/H] of Galactic bulge clusters from member RR Lyrae I-band light curves](https://arxiv.org/abs/2604.01067)
 * [Homogeneous stellar parameters for 717,807 TESS FGK stars using Gaia DR3](https://arxiv.org/abs/2603.29817)
 * [Distribution function-based modelling of discrete kinematic datasets, in application to the Milky Way nuclear star cluster](https://arxiv.org/abs/2603.29502)
