@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [Phase spirals induced by the gas warp](https://arxiv.org/abs/2604.06862)
+* [Metal Mayhem at z∼7−10: Diversity and Evolution of Gas-Phase Metallicity Gradients](https://arxiv.org/abs/2604.07076)
 * [The Stellar "Snake"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST](https://arxiv.org/abs/2604.02717)
 * [oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri](https://arxiv.org/abs/2603.23589)
 * [Nexae in caverna: the secular evolution of disks via collectively excited, transient spiral structure](https://arxiv.org/abs/2604.04827)
