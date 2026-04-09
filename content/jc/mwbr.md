@@ -4,6 +4,11 @@ date: 2026-04-02
 draft: false
 ---
 
+### April 7th 2026:
+
+* Lais: [The structure and evolution of the Galactic high- disc I. Chemical and age orbital cartography](https://arxiv.org/abs/2603.19230)
+* Fabrícia: [oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri](https://arxiv.org/pdf/2603.23589)
+
 ### March 31st 2026:
 
 * João: [GSE vs. LMC: reshaping of radially biased stellar haloes by satellites](https://arxiv.org/abs/2603.11159)

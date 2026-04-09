@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [The Stellar "Snake"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST](https://arxiv.org/abs/2604.02717)
+* [oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri](https://arxiv.org/abs/2603.23589)
+* [Nexae in caverna: the secular evolution of disks via collectively excited, transient spiral structure](https://arxiv.org/abs/2604.04827)
+* [Dynamical clock of the Helmi stream -- Analysis of the clumping of stars in the orbital frequency-space](https://arxiv.org/abs/2604.03786)
+[The morphologies of present-day galaxies in the COLIBRE simulations](https://arxiv.org/abs/2604.03503)
 * [Multiplicity of Massive stars in the Milky Way (M3W). I. Project description, UNWIND, application to GLS 11 448, and DIB catalog](https://arxiv.org/abs/2604.02111)
 * [Tree-ring structure of Galactic bar resonance in N-body simulations](https://arxiv.org/abs/2604.01294)
 * [The velocity field of our Milky Way outer stellar halo based on DESI DR2](https://arxiv.org/abs/2604.01628)
