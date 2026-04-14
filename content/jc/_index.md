@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [The missing ultra-faint satellites of the Milky Way](https://arxiv.org/abs/2604.09539)
+* [Temperature asymmetry in the Milky Way's hot circumgalactic medium induced by the Magellanic Clouds](https://arxiv.org/abs/2604.08652)
+* [Bypassed Core Formation in Milky Way-Mass SIDM Halos: Implications for the Local Group Past-Pericenter Scenario](https://arxiv.org/abs/2604.08647)
+* [3D kinematics of SMC star clusters: residual velocities disentangle kinematically perturbed clusters](https://arxiv.org/abs/2604.08348)
+* [The Fate of Globular Cluster Substructure: A Kinematic Response to Galaxy Assembly](https://arxiv.org/abs/2604.07654)
+* [Too Big to Quench? I. Constraining ISM Stripping of Dwarf Satellites in Milky Way-like Halos](https://arxiv.org/abs/2604.07613)
 * [Phase spirals induced by the gas warp](https://arxiv.org/abs/2604.06862)
 * [Metal Mayhem at z∼7−10: Diversity and Evolution of Gas-Phase Metallicity Gradients](https://arxiv.org/abs/2604.07076)
 * [The Stellar "Snake"-III: Co-evolution of Stars and Molecular Clouds Unveiled by Gaia, MWISP, and LAMOST](https://arxiv.org/abs/2604.02717)
