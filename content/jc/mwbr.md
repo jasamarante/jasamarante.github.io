@@ -4,6 +4,11 @@ date: 2026-04-02
 draft: false
 ---
 
+## April 14th 2026:
+
+* Nicholas: [Too Big to Quench? I. Constraining ISM Stripping of Dwarf Satellites in Milky Way-like Halos](https://arxiv.org/abs/2604.07613)
+
+
 ### April 7th 2026:
 
 * Lais: [The structure and evolution of the Galactic high- disc I. Chemical and age orbital cartography](https://arxiv.org/abs/2603.19230)

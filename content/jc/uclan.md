@@ -6,6 +6,10 @@ date: 2026-04-02
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## April 14th 2026:
+
+* Xiaojie: [Tracing the dynamical and structural complexity of spiral galaxy centres](https://arxiv.org/pdf/2604.07297)
+
 ### March 17th 2026:
 
 * Matt: [The detectability of bars at high redshift: a case study using Euclid-like mock observations of TNG50 simulated galaxies](https://arxiv.org/abs/2601.16335)
