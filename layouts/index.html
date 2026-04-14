@@ -6,9 +6,40 @@
   .content-area p:last-child {
     margin-bottom: 0;
   }
+  
+  /* Add responsive layout for mobile */
+  .profile-wrapper {
+    max-width: 100%;
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+  }
+  
+  /* Mobile layout - triggers on screens smaller than 768px */
+  @media (max-width: 768px) {
+    .profile-wrapper {
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+    
+    .profile-image {
+      text-align: center;
+    }
+    
+    .profile-image img {
+      width: 150px !important;
+    }
+    
+    .content-area {
+      max-width: 100% !important;
+      width: 100%;
+    }
+  }
 </style>
-<div style="max-width: 100%; display: flex; gap: 30px; align-items: flex-start;">
-  <div style="flex-shrink: 0;">
+
+<div class="profile-wrapper">
+  <div class="profile-image">
     <img src="/img/me2.png" alt="João A. S. Amarante" style="width: 200px; border-radius: 50px;">
     <div style="margin-top: 20px; text-align: center;">
       <a href="mailto:joaoant at gmail.com" style="font-size: 32px; text-decoration: none;">✉️</a>
