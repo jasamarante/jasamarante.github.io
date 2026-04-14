@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [Galactic Archaeology with the Subaru `Ōnohi`ula Prime Focus Spectrograph Strategic Program](https://arxiv.org/abs/2604.09875)
+* [The Milky Way Tomography with Subaru Hyper Suprime-Cam: Implications for the past orbit of the Large Magellanic Cloud](https://arxiv.org/abs/2604.10281)
+* [The Milky Way Tomography with Subaru Hyper Suprime-Cam. II. Global halo structure](https://arxiv.org/abs/2604.10280)
+* [Ages and masses of asymptotic giant branch stars from the period--luminosity diagram](https://arxiv.org/abs/2604.10656)
+* [Systematic census of RR Lyrae stars in Milky Way stellar streams](https://arxiv.org/abs/2604.10844)
 * [The missing ultra-faint satellites of the Milky Way](https://arxiv.org/abs/2604.09539)
 * [Temperature asymmetry in the Milky Way's hot circumgalactic medium induced by the Magellanic Clouds](https://arxiv.org/abs/2604.08652)
 * [Bypassed Core Formation in Milky Way-Mass SIDM Halos: Implications for the Local Group Past-Pericenter Scenario](https://arxiv.org/abs/2604.08647)
