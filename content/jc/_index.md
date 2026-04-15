@@ -9,7 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
-* [Galactic Archaeology with the Subaru `Ōnohi`ula Prime Focus Spectrograph Strategic Program](https://arxiv.org/abs/2604.09875)
+* [The R-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars](https://arxiv.org/abs/2604.12892)
+* [No Country for Old Stars -Spectroscopic confirmation of the first intermediate-age RR Lyrae in the open cluster Trumpler 5](https://arxiv.org/abs/2604.11955)
+* [Reconstructing chemical enrichment pathways in disc galaxies: A phylogenetic approach](https://arxiv.org/abs/2604.11974)
+* [Galactic Archaeology with the Subaru Onohiula Prime Focus Spectrograph Strategic Program](https://arxiv.org/abs/2604.09875)
 * [The Milky Way Tomography with Subaru Hyper Suprime-Cam: Implications for the past orbit of the Large Magellanic Cloud](https://arxiv.org/abs/2604.10281)
 * [The Milky Way Tomography with Subaru Hyper Suprime-Cam. II. Global halo structure](https://arxiv.org/abs/2604.10280)
 * [Ages and masses of asymptotic giant branch stars from the period--luminosity diagram](https://arxiv.org/abs/2604.10656)
