@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities](https://arxiv.org/abs/2604.13374)
+* [Substructures of the Milky Way's Retrograde Halo: Evidence for Multiple Accretion Events](https://arxiv.org/abs/2604.13482)
 * [The R-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars](https://arxiv.org/abs/2604.12892)
 * [No Country for Old Stars -Spectroscopic confirmation of the first intermediate-age RR Lyrae in the open cluster Trumpler 5](https://arxiv.org/abs/2604.11955)
 * [Reconstructing chemical enrichment pathways in disc galaxies: A phylogenetic approach](https://arxiv.org/abs/2604.11974)
