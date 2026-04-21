@@ -8,7 +8,6 @@ draft: false
 
 * Nicholas: [Too Big to Quench? I. Constraining ISM Stripping of Dwarf Satellites in Milky Way-like Halos](https://arxiv.org/abs/2604.07613)
 
-
 ### April 7th 2026:
 
 * Lais: [The structure and evolution of the Galactic high- disc I. Chemical and age orbital cartography](https://arxiv.org/abs/2603.19230)
@@ -17,7 +16,6 @@ draft: false
 ### March 31st 2026:
 
 * João: [GSE vs. LMC: reshaping of radially biased stellar haloes by satellites](https://arxiv.org/abs/2603.11159)
-
 
 ### March 25th 2026:
 

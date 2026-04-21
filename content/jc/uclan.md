@@ -6,6 +6,10 @@ date: 2026-04-02
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## April 21st 2026:
+
+* João: [GSE vs. LMC: reshaping of radially biased stellar haloes by satellites](https://arxiv.org/abs/2603.11159)
+
 ## April 14th 2026:
 
 * Xiaojie: [Tracing the dynamical and structural complexity of spiral galaxy centres](https://arxiv.org/pdf/2604.07297)

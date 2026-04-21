@@ -9,6 +9,18 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [Revisiting the Galactic age-metallicity relation from wide white dwarf-main-sequence binaries](https://arxiv.org/abs/2604.15939)
+* [Cold vs. Hot Gas Accretion and Angular Momentum in FIRE Simulations: From Halo to Galaxy Scales](https://arxiv.org/abs/2604.14273)
+* [Stream on: Evolution of stellar shells and streams - A case study](https://arxiv.org/abs/2604.14280)
+* [The Last Galactic Firework: Timing the last significant merger with stars, globular clusters and ωCentauri](https://arxiv.org/abs/2604.14502)
+* [Disk-like galaxies at 4 < z < 7.7 : JWST/NIRCam morphologies revealed by denoising VAE-GCNN classification](https://arxiv.org/abs/2604.14599)
+* [A simple yet effective model of galaxy mergers](https://arxiv.org/abs/2604.14674)
+* [Do galaxy mergers increase star formation and turbulence at cosmic noon?](https://arxiv.org/abs/2604.15002)
+* [Photometric Metallicities for 367,324 stars of Omega Centauri](https://arxiv.org/abs/2604.15103)
+* [Understanding the regulation of star formation within TNG100 galaxies on kpc-scales using machine learning I: Global versus local](https://arxiv.org/abs/2604.15182)
+* [Stellar nucleosynthesis in the era of large surveys: s-process polluted binaries in GALAH DR4](https://arxiv.org/abs/2604.15197)
+* [Age bimodality in pseudo-bulges of barred spiral galaxies: Bar-driven evolution across cosmic time](https://arxiv.org/abs/2604.15257)
+* [Tracing evolutionary pathways of bar-driven quenching in local Universe disc galaxies](https://arxiv.org/abs/2604.15208)
 * [The DECam MAGIC Survey: Investigating the Jet Stellar Stream with Photometric Metallicities](https://arxiv.org/abs/2604.13374)
 * [Substructures of the Milky Way's Retrograde Halo: Evidence for Multiple Accretion Events](https://arxiv.org/abs/2604.13482)
 * [The R-Process Alliance: Actinide Abundances, Variation, and Evolution in Metal-Poor Stars](https://arxiv.org/abs/2604.12892)
