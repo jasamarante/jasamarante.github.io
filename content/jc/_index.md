@@ -9,6 +9,13 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [The Metallicity Gradient of Sagittarius Dwarf Spheroidal Galaxy Prior to Infall Constrained by S-PLUS Observations of its Tidal Stream](https://arxiv.org/abs/2604.16727)
+* [Search for galactic structures and study of their kinematics in the Gaia era](https://arxiv.org/abs/2604.16948)
+* [The Quenching Mechanisms of Field Dwarf Galaxies](https://arxiv.org/abs/2604.17758)
+* [Vaulting the barrier: An intrinsic mechanism to fuel the gas beyond the nuclear ring into the central region of barred galaxies](https://arxiv.org/abs/2604.17955)
+* [From Gaia to GaiaNIR: I. Probing dark matter halos in globular clusters](https://arxiv.org/abs/2604.18265)
+* [Characterizing the velocity anisotropy of the Milky Way's stellar halo](https://arxiv.org/abs/2604.18278)
+* [From Gaia to GaiaNIR: II. A new view of the Milky Way bar](https://arxiv.org/abs/2604.18329)
 * [Revisiting the Galactic age-metallicity relation from wide white dwarf-main-sequence binaries](https://arxiv.org/abs/2604.15939)
 * [Cold vs. Hot Gas Accretion and Angular Momentum in FIRE Simulations: From Halo to Galaxy Scales](https://arxiv.org/abs/2604.14273)
 * [Stream on: Evolution of stellar shells and streams - A case study](https://arxiv.org/abs/2604.14280)
