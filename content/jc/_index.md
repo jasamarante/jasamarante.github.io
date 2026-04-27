@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## April 2026:
 
+* [Characterizing the GD-1 Stream with DESI DR2 Data: Thin Stream and Hot Cocoon](https://arxiv.org/abs/2604.20958)
+* [An Old, Low-mass, Metal-poor Hypervelocity Star Candidate Consistent with a Galactic Center Origin](https://arxiv.org/abs/2604.21646)
+* [Filter Design for Estimating the Stellar Metallicity of Metal-poor Stars from Gaia XP Spectra](https://arxiv.org/abs/2604.21385)
+* [The apparent Large Magellanic Cloud star cluster age gap](https://arxiv.org/abs/2604.19992)
 * [The Metallicity Gradient of Sagittarius Dwarf Spheroidal Galaxy Prior to Infall Constrained by S-PLUS Observations of its Tidal Stream](https://arxiv.org/abs/2604.16727)
 * [Search for galactic structures and study of their kinematics in the Gaia era](https://arxiv.org/abs/2604.16948)
 * [The Quenching Mechanisms of Field Dwarf Galaxies](https://arxiv.org/abs/2604.17758)
