@@ -6,6 +6,10 @@ date: 2026-04-02
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## April 28th 2026:
+
+* Micole: [Galaxy fly-bys sustain bar-halo friction and bar slowdown in disk galaxies](https://arxiv.org/abs/2603.12584)
+
 ## April 21st 2026:
 
 * João: [GSE vs. LMC: reshaping of radially biased stellar haloes by satellites](https://arxiv.org/abs/2603.11159)
