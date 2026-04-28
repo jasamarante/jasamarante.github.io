@@ -10,7 +10,6 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 ## April 2026:
 
 * [The Vertical Structure and Asymmetry of Mg ii-enriched Gas in the Milky Way Disk](https://arxiv.org/abs/2604.23686)
-* [The FLAMINGO simulations data release](https://arxiv.org/abs/2604.24324)
 * [Mapping the Milky Way with Gaia Bp/Rp spectra-IV: the broken and asymmetric density profile of the stellar disk traced by a large sample of red clumps](https://arxiv.org/abs/2604.24456)
 * [Probing the Hot Gaseous Halos of Milky Way-like Galaxies in the TNG50 simulation](https://arxiv.org/abs/2604.24494)
 * [Characterizing the GD-1 Stream with DESI DR2 Data: Thin Stream and Hot Cocoon](https://arxiv.org/abs/2604.20958)
