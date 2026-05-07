@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Galactic Amnesia: The Information Washout of the Milky Way Merger History](https://arxiv.org/abs/2605.04138)
 * [A Multi-Survey Machine-Readable Corpus of Milky Way Globular Cluster Parameters for Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2605.03099)
 * [Are Nucleosynthetic Yields Universal? Interpreting the Multi-Elemental Abundances of Quiescent Galaxies over Cosmic Time Using Milky Way Stars](https://arxiv.org/abs/2605.03000)
 * [NEFERTITI: Linking early galaxy formation to the assembly of the Milky Way](https://arxiv.org/abs/2605.00990)
