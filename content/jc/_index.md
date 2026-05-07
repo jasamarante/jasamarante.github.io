@@ -1,15 +1,36 @@
 ---
 
-date: 2026-04-02
+date: 2026-05-07
 
 ---
 
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## May 2026:
+
+* [A Multi-Survey Machine-Readable Corpus of Milky Way Globular Cluster Parameters for Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2605.03099)
+* [Are Nucleosynthetic Yields Universal? Interpreting the Multi-Elemental Abundances of Quiescent Galaxies over Cosmic Time Using Milky Way Stars](https://arxiv.org/abs/2605.03000)
+* [NEFERTITI: Linking early galaxy formation to the assembly of the Milky Way](https://arxiv.org/abs/2605.00990)
+* [A Universal Dance of Galactic Disks: Ubiquitous Precession and Its Implications](https://arxiv.org/abs/2605.00349)
+* [Exploring RR Lyrae Variable Stars in the Vera C. Rubin Observatory Data Preview 1](https://arxiv.org/abs/2605.00344)
+* [Ultra-deep imaging of nearby dwarf irregular galaxies: stellar haloes and disk structure](https://arxiv.org/abs/2605.00262)
+* [Extinction law and stellar mass in the Nuclear Bulge from kinematically-selected red clump stars](https://arxiv.org/abs/2605.00223)
+* [Chemical Taxonomy of ω~Centauri: Ten Populations Reveal a Multi-Phase Enrichment History](https://arxiv.org/abs/2604.28195)
+* [Anisotropy of Satellite Galaxies-I: Contrasting Correlations with Central Galaxy, Host Halo, and Large-Scale Filament Structures](https://arxiv.org/abs/2604.27845)
+* [Coupling between stellar and HI lopsidedness in Milky Way-type galaxies from the Auriga Superstars cosmological simulations](https://arxiv.org/abs/2604.27057)
+* [The intrinsic dispersion of elemental abundance ratios in nearby metal-poor halo stars](https://arxiv.org/abs/2604.26602)
+* [Stable but Wrong: An Inference Limit in Galactic Archaeology](https://arxiv.org/abs/2604.27368)
+
 ## April 2026:
 
-* teste
+* [Invariant manifolds in barred galaxy simulations. I. Material density waves](https://arxiv.org/abs/2604.26742)
+* [Nature and nurture: the dynamical ages of in situ and accreted globular clusters in the Milky Way](https://arxiv.org/abs/2604.26012)
+* [Characterisation of the Clouds' young stellar Bridge using Gaia DR3](https://arxiv.org/abs/2604.25741)
+* [Galaxy mergers and disk angular momentum evolution: stellar halos as a critical test](https://arxiv.org/abs/2604.24965)
+* [N-body modelling of the ED-2 stream progenitor shows Gaia BH3's formation involved dynamical interactions](https://arxiv.org/abs/2604.24874)
+* [The Bulge Cluster Origin (BulCO) survey with CRIRES at the ESO-VLT: a chemical screening of the Globular Cluster NGC 6553](https://arxiv.org/abs/2604.24856)
+* [Galactic tides and the outer density profile of the Sculptor and Ursa Minor dwarf spheroidals](https://arxiv.org/abs/2604.24853)
 * [The Vertical Structure and Asymmetry of Mg ii-enriched Gas in the Milky Way Disk](https://arxiv.org/abs/2604.23686)
 * [Mapping the Milky Way with Gaia Bp/Rp spectra-IV: the broken and asymmetric density profile of the stellar disk traced by a large sample of red clumps](https://arxiv.org/abs/2604.24456)
 * [Probing the Hot Gaseous Halos of Milky Way-like Galaxies in the TNG50 simulation](https://arxiv.org/abs/2604.24494)

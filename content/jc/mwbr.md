@@ -2,7 +2,19 @@
 title: "MWBR  Journal Club"
 date: 2026-04-02
 draft: false
+
 ---
+
+You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## May 5th 2026:
+
+* Lais: [The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements](https://arxiv.org/abs/2605.02353)
+* Felipe: [apresentação da própria pesquisa]
+
+## April 28th 2026:
+
+* Guilherme: Status update on Stellar Archaeology with Gaia (Slides) -- baseado em um colóquio recentemente apresentado na University of Washington. 
 
 ## April 14th 2026:
 
