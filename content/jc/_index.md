@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties](https://arxiv.org/abs/2605.05293)
+* [The multiple corrugations in the Galactic disk derived from the LAMOST and Gaia survey data](https://arxiv.org/abs/2605.05937)
+* [Phase-Space Crystallization in Galactic Globular Clusters: A Gaia-Based Metric and Implications for Technosignature Searches](https://arxiv.org/abs/2605.06072)
 * [A spectroscopic map of the Galactic centre: Integrated light and dynamical modelling](https://arxiv.org/abs/2605.04633)
 * [Galactic Amnesia: The Information Washout of the Milky Way Merger History](https://arxiv.org/abs/2605.04138)
 * [A Multi-Survey Machine-Readable Corpus of Milky Way Globular Cluster Parameters for Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2605.03099)
