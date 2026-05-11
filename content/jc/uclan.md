@@ -1,6 +1,6 @@
 ---
 
-date: 2026-04-02
+date: 2026-05-11
 
 ---
 
@@ -8,7 +8,7 @@ Here's the list of papers discussed during the journal club of Prof. Victor Deba
 
 ## May 5th 2026:
 
-Benjamin: [Disk-like galaxies at 4<z<7.7: JWST/NIRCam morphologies revealed by denoising VEA-GCNN classification](https://arxiv.org/pdf/2604.14599)
+* Benjamin: [Disk-like galaxies at 4<z<7.7: JWST/NIRCam morphologies revealed by denoising VEA-GCNN classification](https://arxiv.org/pdf/2604.14599)
 
 ## April 28th 2026:
 

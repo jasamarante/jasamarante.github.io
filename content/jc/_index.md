@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-07
+date: 2026-05-11
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Radial redistribution of stellar orbits in FIRE simulations of Milky-Way-mass galaxies](https://arxiv.org/abs/2605.06781)
+* [Dynamical evolution of Milky Way globular clusters on the cosmological timescale II. Terzan 2, 4, and 5 mass loss and collision tracking](https://arxiv.org/abs/2605.07511)
+* [Constraining the Galactic bar using the M92 stellar stream](https://arxiv.org/abs/2605.07918)
 * [Life is But a Stream: The Distribution of Planetary Systems Along Stellar Streams and their Properties](https://arxiv.org/abs/2605.05293)
 * [The multiple corrugations in the Galactic disk derived from the LAMOST and Gaia survey data](https://arxiv.org/abs/2605.05937)
 * [Phase-Space Crystallization in Galactic Globular Clusters: A Gaia-Based Metric and Implications for Technosignature Searches](https://arxiv.org/abs/2605.06072)
