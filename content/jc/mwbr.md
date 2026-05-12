@@ -7,6 +7,10 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+## May 12th 2026:
+
+* André: [Ag I model atom and the 3D non-LTE solar silver abundance](https://arxiv.org/abs/2605.05356)
+
 ## May 5th 2026:
 
 * Lais: [The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements](https://arxiv.org/abs/2605.02353)
