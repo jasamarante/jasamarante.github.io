@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-11
+date: 2026-05-12
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Tracing the kinematic perturbations of the Milky Way spiral arms with APOGEE DR17 and Gaia DR3](https://arxiv.org/abs/2605.10092)
+* [Stellar Age Compression Reshapes Interpretations of the Milky Way Thick-Disk Formation History](https://arxiv.org/abs/2605.10220)
+* [Co-evolution of the Milky Way high- and low-α sequences with chemical evolution models](https://arxiv.org/abs/2605.10596)
+* [Milky Way Dynamics Favor Dark Matter over Modified Gravity Models](https://arxiv.org/abs/2605.10857)
 * [Radial redistribution of stellar orbits in FIRE simulations of Milky-Way-mass galaxies](https://arxiv.org/abs/2605.06781)
 * [Dynamical evolution of Milky Way globular clusters on the cosmological timescale II. Terzan 2, 4, and 5 mass loss and collision tracking](https://arxiv.org/abs/2605.07511)
 * [Constraining the Galactic bar using the M92 stellar stream](https://arxiv.org/abs/2605.07918)
