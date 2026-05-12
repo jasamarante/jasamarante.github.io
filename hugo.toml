@@ -8,6 +8,7 @@ paginate = 10
   author = "João A. S. Amarante"
   description = "Academic website"
   homeInfoParams = {}
+  googleSiteVerification = "Pw4YHRFNgMn_IYe4tfC4xxtqHbJsJt0d7RVhMa6Q6X0"
 
 [menu]
   [[menu.main]]

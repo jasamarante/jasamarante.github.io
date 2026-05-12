@@ -9,6 +9,7 @@ baseURL = "https://jasamarante.github.io/"
 [params]
   author = "João A. S. Amarante"
   description = "Academic website"
+   googleSiteVerification = "Pw4YHRFNgMn_IYe4tfC4xxtqHbJsJt0d7RVhMa6Q6X0"
   
 [menu]
   [[menu.main]]
