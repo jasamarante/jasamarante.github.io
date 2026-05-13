@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Self-consistent dynamical modelling of the Milky Way bar with orbital frequency analysis](https://arxiv.org/abs/2605.12424)
+* [The R-Process Alliance: The R-Process Enhancement of Stars from Chemodynamically Tagged Groups in the Milky Way Halo](https://arxiv.org/abs/2605.11087)
 * [Tracing the kinematic perturbations of the Milky Way spiral arms with APOGEE DR17 and Gaia DR3](https://arxiv.org/abs/2605.10092)
 * [Stellar Age Compression Reshapes Interpretations of the Milky Way Thick-Disk Formation History](https://arxiv.org/abs/2605.10220)
 * [Co-evolution of the Milky Way high- and low-α sequences with chemical evolution models](https://arxiv.org/abs/2605.10596)
