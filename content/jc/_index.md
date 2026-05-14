@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [The flare and spiral structure of the Milky Way's disc as traced by young giant stars](https://arxiv.org/abs/2605.12603)
+* [Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era](https://arxiv.org/abs/2605.13811)
 * [Self-consistent dynamical modelling of the Milky Way bar with orbital frequency analysis](https://arxiv.org/abs/2605.12424)
 * [The R-Process Alliance: The R-Process Enhancement of Stars from Chemodynamically Tagged Groups in the Milky Way Halo](https://arxiv.org/abs/2605.11087)
 * [Tracing the kinematic perturbations of the Milky Way spiral arms with APOGEE DR17 and Gaia DR3](https://arxiv.org/abs/2605.10092)
