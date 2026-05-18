@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [The Low-α Splash Population in the Milky Way](https://arxiv.org/abs/2605.16050)
+* [Kinematic hints of a nuclear bar in the Milky Way](https://arxiv.org/abs/2605.16105)
+* [Simulations of gas inflow in the Milky Way I. Stellar-Feedback-Regulated Transport from the Central Molecular Zone to the Circumnuclear disk](https://arxiv.org/abs/2605.16192)
 * [Ionization Structure and Metal Enrichment of the Galactic Center Minispiral Observed with JWST](https://arxiv.org/abs/2605.13995)
 * [The flare and spiral structure of the Milky Way's disc as traced by young giant stars](https://arxiv.org/abs/2605.12603)
 * [Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era](https://arxiv.org/abs/2605.13811)
