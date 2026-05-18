@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Ionization Structure and Metal Enrichment of the Galactic Center Minispiral Observed with JWST](https://arxiv.org/abs/2605.13995)
 * [The flare and spiral structure of the Milky Way's disc as traced by young giant stars](https://arxiv.org/abs/2605.12603)
 * [Photometric metallicity of Galactic RR Lyrae stars in the Gaia DR3 era](https://arxiv.org/abs/2605.13811)
 * [Self-consistent dynamical modelling of the Milky Way bar with orbital frequency analysis](https://arxiv.org/abs/2605.12424)
