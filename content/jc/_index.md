@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [No Stream Left Unscathed: The imprint of a host galaxy](https://arxiv.org/abs/2605.16200)
 * [The Low-α Splash Population in the Milky Way](https://arxiv.org/abs/2605.16050)
 * [Kinematic hints of a nuclear bar in the Milky Way](https://arxiv.org/abs/2605.16105)
 * [Simulations of gas inflow in the Milky Way I. Stellar-Feedback-Regulated Transport from the Central Molecular Zone to the Circumnuclear disk](https://arxiv.org/abs/2605.16192)
