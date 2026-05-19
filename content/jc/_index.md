@@ -403,6 +403,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ### October 2025:
 
+* [Stellar population astrophysics (SPA) with the TNG. The Phosphorus abundance on the young side of Milky Way](https://arxiv.org/abs/2510.14791)
 * [Unsupervised learning for variability detection with Gaia DR3 photometry. The main sequence-white dwarf valley](https://arxiv.org/abs/2510.23776)
 * [Detailed Abundance Determination of Metal-Poor Stars with X-Shooter I. Unusual Chemistry in Halo Stars](https://arxiv.org/abs/2510.24346)
 * [Kinematic, Elemental and Structural Dependences on Metallicity in the Galactic Bulge](https://arxiv.org/abs/2510.24382)

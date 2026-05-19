@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-05-11
+date: 2026-05-19
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## May 19th 2026:
+
+* Thayse: [Stellar population astrophysics (SPA) with the TNG. The Phosphorus abundance on the young side of Milky Way](https://arxiv.org/abs/2510.14791)
+* João: [Kinematic hints of a nuclear bar in the Milky Way](https://arxiv.org/abs/2605.16105)
 
 ## May 12th 2026:
 
