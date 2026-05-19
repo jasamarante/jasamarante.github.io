@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-12
+date: 2026-05-19
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Stellar encounters in the solar neighbourhood and the special case of GJ~710](https://arxiv.org/abs/2605.16496)
+* [Determination of the best dark matter profile for the Milky Way with Gaia DR3 using Bayesian Model Comparison](https://arxiv.org/abs/2605.16994)
+* [Inferring stellar metallicity and elemental abundances from kinematic and spectroscopic data using machine learning -- Implications for exoplanet host stars](https://arxiv.org/abs/2605.18131)
 * [No Stream Left Unscathed: The imprint of a host galaxy](https://arxiv.org/abs/2605.16200)
 * [The Low-α Splash Population in the Milky Way](https://arxiv.org/abs/2605.16050)
 * [Kinematic hints of a nuclear bar in the Milky Way](https://arxiv.org/abs/2605.16105)
