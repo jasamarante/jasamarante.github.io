@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-19
+date: 2026-05-20
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Bulgeless Evolution And the Rise of Discs (BEARD) III. A numerical simulation view of satellites around Milky-Way analogues](https://arxiv.org/abs/2605.18975)
+* [Bulgeless Evolution And the Rise of Discs (BEARD) II. The role of mergers in shaping the Milky Way analogues in TNG50](https://arxiv.org/abs/2605.18948)
+* [Bulgeless Evolution And the Rise of Discs (BEARD) I. Physical drivers of the mass-size relation for Milky Way-like galaxies](https://arxiv.org/abs/2605.18976)
+* [AMPM II. A Lunar-Mass Primordial Black Hole Microlensing Candidate in the Milky Way Halo](https://arxiv.org/abs/2605.19375)
+* [Arm morphology in off-centre barred galaxies](https://arxiv.org/abs/2605.19882)
 * [Stellar encounters in the solar neighbourhood and the special case of GJ~710](https://arxiv.org/abs/2605.16496)
 * [Determination of the best dark matter profile for the Milky Way with Gaia DR3 using Bayesian Model Comparison](https://arxiv.org/abs/2605.16994)
 * [Inferring stellar metallicity and elemental abundances from kinematic and spectroscopic data using machine learning -- Implications for exoplanet host stars](https://arxiv.org/abs/2605.18131)
