@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-20
+date: 2026-05-21
 
 ---
 
@@ -9,6 +9,13 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Inferring Globular Cluster Initial Mass Function from Stellar Streams](https://arxiv.org/abs/2605.20322)
+* [Milky Way Mapper decoded abundances -- I. Shared disc enrichment patterns](https://arxiv.org/abs/2605.20487)
+* [The chemo-dynamical complexity of ω Centauri: different kinematics for different populations](https://arxiv.org/abs/2605.20503)
+* [Binary Neutron Star Merger Evolution and r-Process Enrichment in the Milky Way Disk](https://arxiv.org/abs/2605.20596)
+* [The R-process Alliance: A Bright, Strongly R-process-enhanced Extremely Metal-poor Star Observed with GHOST](https://arxiv.org/abs/2605.20614)
+* [Revisiting the mass metallicity relation and the fundamental metallicity relation of dwarf galaxies at cosmic noon with NIRISS](https://arxiv.org/abs/2605.20810)
+* [Dawn of the Milky Way disk: Determination of when a rotationally supported disk appears and dating the spin-up of the disk](https://arxiv.org/abs/2605.20959)
 * [Bulgeless Evolution And the Rise of Discs (BEARD) III. A numerical simulation view of satellites around Milky-Way analogues](https://arxiv.org/abs/2605.18975)
 * [Bulgeless Evolution And the Rise of Discs (BEARD) II. The role of mergers in shaping the Milky Way analogues in TNG50](https://arxiv.org/abs/2605.18948)
 * [Bulgeless Evolution And the Rise of Discs (BEARD) I. Physical drivers of the mass-size relation for Milky Way-like galaxies](https://arxiv.org/abs/2605.18976)
