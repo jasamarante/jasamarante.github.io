@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Unsupervised Chemo-Dynamical Dissection of the Inner Galactic Halo: Discovery of Five Accreted Substructures with SDSS-V and Gaia](https://arxiv.org/abs/2605.23801)
+* [From protogalaxy through thick and thin: Why did the Milky Way evolve in three kinematic phases?](https://arxiv.org/abs/2605.22806)
+* [Evidence of radial-migration driven Galactic disc expansion with the U-shape stellar age profile](https://arxiv.org/abs/2605.23132)
+* [Gaia-Sausage-Enceladus: Lithium evolution from early red-giant-branch and main-sequence stars](https://arxiv.org/abs/2605.23746)
+* [The Absolute Age of the Open Cluster NGC 6791 and Its Implications for Galactic Archaeology and Asteroseismic Calibration](https://arxiv.org/abs/2605.21682)
+* [Milky Way Mapper decoded abundances -- II: From patterns to paths](https://arxiv.org/abs/2605.21735)
 * [Inferring Globular Cluster Initial Mass Function from Stellar Streams](https://arxiv.org/abs/2605.20322)
 * [Milky Way Mapper decoded abundances -- I. Shared disc enrichment patterns](https://arxiv.org/abs/2605.20487)
 * [The chemo-dynamical complexity of ω Centauri: different kinematics for different populations](https://arxiv.org/abs/2605.20503)
