@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Bar-halo interaction: the role of orbital anisotropy](https://arxiv.org/abs/2605.26225)
+* [The DECam MAGIC Survey − Mapping the Ancient Galaxy in CaHK: Overview and Summary of Early Science](https://arxiv.org/abs/2605.26581)
+* [Invariant manifolds in barred galaxy simulations. II. Quantitative evidence of manifold-trapping in spiral arm formation](https://arxiv.org/abs/2605.26722)
 * [Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE](https://arxiv.org/abs/2605.24104)
 * [The 3D Structure and Kinematics of the Local Disk-Halo Interface: Intermediate-velocity Clouds are the Minority of High-altitude Clouds in the Solar Neighborhood](https://arxiv.org/abs/2605.24342)
 * [Legacy analysis of Milky Way dwarf spheroidal satellite galaxies: an update](https://arxiv.org/abs/2605.25586)
