@@ -6,6 +6,10 @@ date: 2026-05-11
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## May 26th 2026:
+
+* Dave: [Age bimodality in pseudo-bulges of barred spiral galaxies: bar-driven evolution across cosmic time](https://doi.org/10.1093/mnras/stag754)
+
 ## May 5th 2026:
 
 * Benjamin: [Disk-like galaxies at 4<z<7.7: JWST/NIRCam morphologies revealed by denoising VEA-GCNN classification](https://arxiv.org/pdf/2604.14599)

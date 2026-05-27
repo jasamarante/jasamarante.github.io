@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Resolving galaxy formation in the early Universe with BonFIRE and CampFIRE](https://arxiv.org/abs/2605.24104)
+* [The 3D Structure and Kinematics of the Local Disk-Halo Interface: Intermediate-velocity Clouds are the Minority of High-altitude Clouds in the Solar Neighborhood](https://arxiv.org/abs/2605.24342)
+* [Legacy analysis of Milky Way dwarf spheroidal satellite galaxies: an update](https://arxiv.org/abs/2605.25586)
 * [Unsupervised Chemo-Dynamical Dissection of the Inner Galactic Halo: Discovery of Five Accreted Substructures with SDSS-V and Gaia](https://arxiv.org/abs/2605.23801)
 * [From protogalaxy through thick and thin: Why did the Milky Way evolve in three kinematic phases?](https://arxiv.org/abs/2605.22806)
 * [Evidence of radial-migration driven Galactic disc expansion with the U-shape stellar age profile](https://arxiv.org/abs/2605.23132)
