@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [A 1% distance to the Large Magellanic Cloud measured by population-II pulsating stars using Gaia Data Release 3](https://arxiv.org/abs/2605.28941)
+* [Using GALEX UV Excess to Search for Metal-poor Halo Stars](https://arxiv.org/abs/2605.29060)
+* [MAGAZ3NE: Spatially Resolved Ages and Chemical Abundances of Ultra-Massive Quiescent Galaxies at z ∼ 3.5 using JWST/NIRSpec IFU](https://arxiv.org/abs/2605.27555)
 * [Bar-halo interaction: the role of orbital anisotropy](https://arxiv.org/abs/2605.26225)
 * [The DECam MAGIC Survey − Mapping the Ancient Galaxy in CaHK: Overview and Summary of Early Science](https://arxiv.org/abs/2605.26581)
 * [Invariant manifolds in barred galaxy simulations. II. Quantitative evidence of manifold-trapping in spiral arm formation](https://arxiv.org/abs/2605.26722)
