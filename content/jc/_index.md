@@ -1,6 +1,6 @@
 ---
 
-date: 2026-05-21
+date: 2026-06-02
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## May 2026:
 
+* [Halo stars harbour few wide ultracool companions](https://arxiv.org/abs/2606.00300)
+* [The First Glimpse of Water Ice Absorption Map in the Milky Way](https://arxiv.org/abs/2606.01088)
+* [The magnetic field of the Milky Way: an observational perspective](https://arxiv.org/abs/2606.02149)
 * [A 1% distance to the Large Magellanic Cloud measured by population-II pulsating stars using Gaia Data Release 3](https://arxiv.org/abs/2605.28941)
 * [Using GALEX UV Excess to Search for Metal-poor Halo Stars](https://arxiv.org/abs/2605.29060)
 * [MAGAZ3NE: Spatially Resolved Ages and Chemical Abundances of Ultra-Massive Quiescent Galaxies at z ∼ 3.5 using JWST/NIRSpec IFU](https://arxiv.org/abs/2605.27555)
