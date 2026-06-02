@@ -7,6 +7,11 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+## June 2nd 2026:
+
+* Lais: [Co-evolution of the Milky Way high- and low-α sequences with chemical evolution models](https://arxiv.org/abs/2605.10596)
+* João: [Through Thick and Thin: The Cosmic Evolution of Disk Scale Height](https://arxiv.org/abs/2601.04988)
+
 ## May 19th 2026:
 
 * Thayse: [Stellar population astrophysics (SPA) with the TNG. The Phosphorus abundance on the young side of Milky Way](https://arxiv.org/abs/2510.14791)
