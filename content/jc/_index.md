@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [SMUGGLE-Ring: Evolutionary link between nuclear star cluster and nuclear disk](https://arxiv.org/abs/2606.05157)
+* [A More Complex Than Expected Formation History of the Milky Way's Last Major Merger](https://arxiv.org/abs/2606.04462)
+* [The GALAH Survey: Neutron-Capture Elemental Abundances for 350,000 Gaia-RVS Spectra and the Chemodynamics of Accreted Structures](https://arxiv.org/abs/2606.04567)
+* [Three Extremely Metal-Poor stars: discovery of a new CEMP-no star](https://arxiv.org/abs/2606.05154)
 * [The effects of yields from binary massive stars as functions of metallicity](https://arxiv.org/abs/2606.02731)
 * [The VMC survey -- LV. The coherent expansion of the SMC](https://arxiv.org/abs/2606.03901)
 
