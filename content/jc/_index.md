@@ -1,11 +1,16 @@
 ---
 
-date: 2026-06-02
+date: 2026-06-04
 
 ---
 
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
+
+## June 2026:
+
+* [The effects of yields from binary massive stars as functions of metallicity](https://arxiv.org/abs/2606.02731)
+* [The VMC survey -- LV. The coherent expansion of the SMC](https://arxiv.org/abs/2606.03901)
 
 ## May 2026:
 
