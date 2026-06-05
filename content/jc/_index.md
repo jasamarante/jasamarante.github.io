@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-04
+date: 2026-06-05
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Bar-induced deflection of open cluster tidal tails](https://arxiv.org/abs/2606.06248)
 * [SMUGGLE-Ring: Evolutionary link between nuclear star cluster and nuclear disk](https://arxiv.org/abs/2606.05157)
 * [A More Complex Than Expected Formation History of the Milky Way's Last Major Merger](https://arxiv.org/abs/2606.04462)
 * [The GALAH Survey: Neutron-Capture Elemental Abundances for 350,000 Gaia-RVS Spectra and the Chemodynamics of Accreted Structures](https://arxiv.org/abs/2606.04567)
