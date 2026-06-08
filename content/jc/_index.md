@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-05
+date: 2026-06-08
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [The accretion history of the Milky Way V. The kinematics of most globular clusters trace the merger epochs](https://arxiv.org/abs/2606.06594)
+* [The Pristine Dwarf Galaxy Survey -- VII. The metallicity distributions of 12 Milky Way faint satellites](https://arxiv.org/abs/2606.06610)
+* [Angular momentum evolution in the CIELO simulations. I. Temporal evolution of gas-stellar misalignments and baryonic merger timing](https://arxiv.org/abs/2606.07160)
 * [Bar-induced deflection of open cluster tidal tails](https://arxiv.org/abs/2606.06248)
 * [SMUGGLE-Ring: Evolutionary link between nuclear star cluster and nuclear disk](https://arxiv.org/abs/2606.05157)
 * [A More Complex Than Expected Formation History of the Milky Way's Last Major Merger](https://arxiv.org/abs/2606.04462)
