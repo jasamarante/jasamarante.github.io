@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-08
+date: 2026-06-09
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [The complex kinematics of the young stars orbiting the supermassive black hole in the Galactic center can be explained by the presence of an intermediate mass companion of Sgr A⋆](https://arxiv.org/abs/2606.08971)
+* [Disentangling chemical evolution histories with phylogenetic trees](https://arxiv.org/abs/2606.09284)
+* [TYC 170-1218-1: A new r-process-enhanced extremely metal-poor star, rich in Th](https://arxiv.org/abs/2606.09352)
 * [The accretion history of the Milky Way V. The kinematics of most globular clusters trace the merger epochs](https://arxiv.org/abs/2606.06594)
 * [The Pristine Dwarf Galaxy Survey -- VII. The metallicity distributions of 12 Milky Way faint satellites](https://arxiv.org/abs/2606.06610)
 * [Angular momentum evolution in the CIELO simulations. I. Temporal evolution of gas-stellar misalignments and baryonic merger timing](https://arxiv.org/abs/2606.07160)
