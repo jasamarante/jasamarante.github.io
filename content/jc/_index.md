@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-09
+date: 2026-06-10
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Reassessing the low-α massive sequence stars in Gaia RVS](https://arxiv.org/abs/2606.11165)
+* [Milky Way's warped disc traced by AGB stars](https://arxiv.org/abs/2606.10235)
+* [Formation of Parallel Stellar Streams through Encounters with Dark Matter Subhalos and Intermediate-Mass Black Holes](https://arxiv.org/abs/2606.10859)
 * [The complex kinematics of the young stars orbiting the supermassive black hole in the Galactic center can be explained by the presence of an intermediate mass companion of Sgr A⋆](https://arxiv.org/abs/2606.08971)
 * [Disentangling chemical evolution histories with phylogenetic trees](https://arxiv.org/abs/2606.09284)
 * [TYC 170-1218-1: A new r-process-enhanced extremely metal-poor star, rich in Th](https://arxiv.org/abs/2606.09352)
