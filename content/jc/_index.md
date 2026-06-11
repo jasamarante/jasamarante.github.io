@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-10
+date: 2026-06-11
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Spiral arms across cosmic time: JWST measurements of the pitch angles of spiral galaxies at z<3.5](https://arxiv.org/abs/2606.11315)
+* [CRIRES+ reveals the chemistry of the stellar sub-populations in the bulge fossil fragment Liller 1](https://arxiv.org/abs/2606.11329)
+* [Distinct Gas and Stellar Circular Rotation Curves in the Milky Way Galaxy](https://arxiv.org/abs/2606.11872)
 * [Reassessing the low-α massive sequence stars in Gaia RVS](https://arxiv.org/abs/2606.11165)
 * [Milky Way's warped disc traced by AGB stars](https://arxiv.org/abs/2606.10235)
 * [Formation of Parallel Stellar Streams through Encounters with Dark Matter Subhalos and Intermediate-Mass Black Holes](https://arxiv.org/abs/2606.10859)
