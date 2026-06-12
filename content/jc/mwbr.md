@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-06-02
+date: 2026-06-12
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## June 16th 2026:
+
+* André: [TYC 170–1218–1: A new r-process-enhanced extremely metal-poor star, rich in Th](https://www.aanda.org/articles/aa/abs/2026/06/aa59099-26/aa59099-26.html)
+* João: [Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn](https://arxiv.org/abs/2606.13078)
 
 ## June 2nd 2026:
 
