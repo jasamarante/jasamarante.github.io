@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-11
+date: 2026-06-12
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [The Hubble Missing Globular Clusters Survey IV. Ultra-faint compact satellites of the Milky Way. The case of Koposov 2](https://arxiv.org/abs/2606.12517)
+* [CAPOS: The bulge Cluster APOgee Survey XII. Abundances for 98 PIGS metal-poor Bulge field giants](https://arxiv.org/abs/2606.12583)
+* [Influence of the resonance ring gravity on the stellar velocity distribution near the OLR of the Galactic bar](https://arxiv.org/abs/2606.12589)
+* [Bar-induced migration of ω Centauri away from Gaia Sausage-Enceladus]()
 * [Spiral arms across cosmic time: JWST measurements of the pitch angles of spiral galaxies at z<3.5](https://arxiv.org/abs/2606.11315)
 * [CRIRES+ reveals the chemistry of the stellar sub-populations in the bulge fossil fragment Liller 1](https://arxiv.org/abs/2606.11329)
 * [Distinct Gas and Stellar Circular Rotation Curves in the Milky Way Galaxy](https://arxiv.org/abs/2606.11872)
