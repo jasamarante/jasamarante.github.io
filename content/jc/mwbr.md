@@ -96,11 +96,11 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 5-min self-authorship talks: 
 
-* Joao: [GASTRO library II: Exploring Chemical Bimodalities in Disk Galaxies with GSE-like Mergers and Massive Star-forming Clumps](https://arxiv.org/abs/2512.01293)
+* João: [GASTRO library II: Exploring Chemical Bimodalities in Disk Galaxies with GSE-like Mergers and Massive Star-forming Clumps](https://arxiv.org/abs/2512.01293)
 
 ### November 26th 2025:
 
-* Joao: [What Does the LMC Look Like? It Depends on [M/H] and Age](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..136F/abstract)
+* João: [What Does the LMC Look Like? It Depends on [M/H] and Age](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..136F/abstract)
 * Rodolfo: [apresentação da própria pesquisa]
 
 ### November 19th 2025:
@@ -149,7 +149,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 ### September 3rd 2025:
 
 * Nayara: [A Novel Approach to Identifying Substructures Through Analysis of Metallicity Distribution Functions](https://arxiv.org/abs/2508.16233)
-* Joao: [The Impact of Radial Migration on Disk Galaxy SFHs: I. Biases in Spatially Resolved Estimates](https://arxiv.org/abs/2508.18367)
+* João: [The Impact of Radial Migration on Disk Galaxy SFHs: I. Biases in Spatially Resolved Estimates](https://arxiv.org/abs/2508.18367)
 
 ### August 27th 2025:
 
@@ -167,7 +167,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### August 13th 2025:
 
-* Joao: [Thick-to-thin disc transition and gas disc shrinking induced by the Gaia-Sausage-Enceladus merger](https://arxiv.org/abs/2507.22979)
+* João: [Thick-to-thin disc transition and gas disc shrinking induced by the Gaia-Sausage-Enceladus merger](https://arxiv.org/abs/2507.22979)
 
 ### July 2nd 2025:
 
@@ -263,7 +263,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### February 19th 2025:
 
-* Joao Vitor: [Radial migration in the Galactic disc driven by a slowing bar](https://arxiv.org/abs/2502.02642)
+* João Vitor: [Radial migration in the Galactic disc driven by a slowing bar](https://arxiv.org/abs/2502.02642)
 * Helio: [Unveiling the formation channels of stellar halos through their chemical fingerprints](https://arxiv.org/abs/2412.13483)
 
 ### February 12th 2025:
@@ -283,12 +283,12 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### December 16th 2024:
 
-* Joao: [Rediscovering the Milky Way with orbit superposition approach and APOGEE data II. Chrono-chemo-kinematics of the disc](https://arxiv.org/abs/2411.16866)
+* João: [Rediscovering the Milky Way with orbit superposition approach and APOGEE data II. Chrono-chemo-kinematics of the disc](https://arxiv.org/abs/2411.16866)
 
 ### December 2nd 2024: 
 
 * Fabricia: [Chemo-dynamics of the stellar component of the Sculptor dwarf galaxy I: observed properties](https://arxiv.org/pdf/2411.07283)
-* Joao: [Introduction to GASTRO library]
+* João: [Introduction to GASTRO library]
 
 ### November 25th 2024:
 
@@ -314,7 +314,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 ### October 14th 2024:
 
 * Fabricia: [An "alien" called Oosterhoff dichotomy](https://arxiv.org/pdf/2409.04259)
-* Joao: [The distant Milky Way halo from the Southern hemisphere: Characterization of the LMC-induced dynamical-friction wake](https://arxiv.org/abs/2410.00114)
+* João: [The distant Milky Way halo from the Southern hemisphere: Characterization of the LMC-induced dynamical-friction wake](https://arxiv.org/abs/2410.00114)
 
 ### October 7th 2024:
 
@@ -344,7 +344,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### July 22th 2024:
 
-* Joao: [Our Halo of Ice and Fire: Strong Kinematic Asymmetries in the Galactic Halo](https://arxiv.org/abs/2406.12969)
+* João: [Our Halo of Ice and Fire: Strong Kinematic Asymmetries in the Galactic Halo](https://arxiv.org/abs/2406.12969)
 * Helio: [Rising from the Ashes: How the Milky Way Got Its Scars](https://arxiv.org/abs/2407.07985)
 
 ### July 15th 2024:
@@ -372,7 +372,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### May 20th 2024:
 
-* Joao: [The ratio of [Eu/α] differentiates accreted/in-situ Milky Way stars across metallicities, as indicated by both field stars and globular clusters](https://arxiv.org/abs/2405.08963)
+* João: [The ratio of [Eu/α] differentiates accreted/in-situ Milky Way stars across metallicities, as indicated by both field stars and globular clusters](https://arxiv.org/abs/2405.08963)
 
 
 ### May 13th 2024:
@@ -415,7 +415,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### March 11th 2024:
 
 * Fabricia: [Imprints of interaction processes in the globular cluster system of NGC 3640](https://arxiv.org/abs/2403.00065)
-* Joao: [Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to >200 kpc](https://arxiv.org/abs/2402.14055)
+* João: [Taking the pulse of the outer Milky Way with HOWVAST: an RR Lyrae density profile out to >200 kpc](https://arxiv.org/abs/2402.14055)
 
 ### March 4th 2024:
 
@@ -423,7 +423,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### February 26th 2024:
 
-* Joao: [Discovery of the local counterpart of disc galaxies at z > 4: The oldest thin disc of Milky Way using Gaia-RVS](https://arxiv.org/abs/2402.00561)
+* João: [Discovery of the local counterpart of disc galaxies at z > 4: The oldest thin disc of Milky Way using Gaia-RVS](https://arxiv.org/abs/2402.00561)
 * Guilherme: [La Silla-QUEST RR Lyrae Star Survey II: The Crater II Tidal Streams](https://arxiv.org/abs/2402.01899)
 
 ### February 19th 2024:
@@ -458,7 +458,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### December 1st 2023:
 
 * André: [Could very low-metallicity stars with rotation-dominated orbits have been shepherded by the bar?](https://arxiv.org/pdf/2311.08464.pdf)
-* Joao: [Exploring the impact of a rapidly decelerating bar on transforming bulge orbits into disc-like orbits](https://arxiv.org/abs/2311.15270v1)
+* João: [Exploring the impact of a rapidly decelerating bar on transforming bulge orbits into disc-like orbits](https://arxiv.org/abs/2311.15270v1)
 
 ### November 24th 2023:
 
@@ -526,7 +526,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### May 26th 2023:
 
-* Joao: [The outer low-α disc of the Milky Way -- I: evidence for the first pericentric passage of Sagittarius?](https://arxiv.org/abs/2305.07426)
+* João: [The outer low-α disc of the Milky Way -- I: evidence for the first pericentric passage of Sagittarius?](https://arxiv.org/abs/2305.07426)
 
 ### May 19th 2023:
 
@@ -564,7 +564,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### March 10th 2023:
 
 * Guilherme: [Understanding the origin of CEMP-no stars through ultra-faint dwarfs](https://arxiv.org/abs/2302.10210)
-* Joao: [Exploring the diversity and similarity of radially anisotropic Milky Way-like stellar haloes: implications for dwarf galaxy searches](https://arxiv.org/abs/2303.02147) 
+* João: [Exploring the diversity and similarity of radially anisotropic Milky Way-like stellar haloes: implications for dwarf galaxy searches](https://arxiv.org/abs/2303.02147) 
 
 ### March 3rd 2023:
 
@@ -573,7 +573,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### February 24th 2023:
 
 * Guilherme: [Reconstructing the genesis of a globular cluster system at a look-back time of 9.1 Gyr with the JWST](https://arxiv.org/abs/2212.05078)
-* Joao: [There is No Place Like Home -- Finding Birth Radii of Stars in the Milky Way](https://arxiv.org/abs/2212.04515)
+* João: [There is No Place Like Home -- Finding Birth Radii of Stars in the Milky Way](https://arxiv.org/abs/2212.04515)
 
 ### February 17th 2023:
 
@@ -589,7 +589,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### January 27th 2023:
 
-* Joao: [Accelerated phase-mixing in the stellar halo due to a rotating bar](https://arxiv.org/abs/2301.04154)
+* João: [Accelerated phase-mixing in the stellar halo due to a rotating bar](https://arxiv.org/abs/2301.04154)
 
 ### December 16th 2022:
 
@@ -598,7 +598,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### December 2nd 2022:
 
 * Guilherme: [The observable properties of galaxy accretion events in Milky Way-like galaxies in the FIRE-2 cosmological simulations](https://arxiv.org/abs/2211.05799) 
-* Joao: [A Swing of the Pendulum: The Chemodynamics of the Local Stellar Halo Indicate Contributions from Several Radial Merger Events](https://arxiv.org/abs/2211.12576)
+* João: [A Swing of the Pendulum: The Chemodynamics of the Local Stellar Halo Indicate Contributions from Several Radial Merger Events](https://arxiv.org/abs/2211.12576)
 
 ### November 18th 2022:
 
@@ -628,12 +628,12 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### October 7th 2022:
 
-* Joao: [Energy wrinkles and phase-space folds of the last major merger](https://arxiv.org/abs/2208.11135)
+* João: [Energy wrinkles and phase-space folds of the last major merger](https://arxiv.org/abs/2208.11135)
 
 ### September 23rd 2022:
 
-* Joao: [The Poor Old Heart of the Milky Way](https://arxiv.org/abs/2209.02722)
-* Joao:  [Probing the Galactic halo with RR Lyrae stars − III. The chemical and kinematic properties of the stellar halo](https://arxiv.org/abs/2209.07885)
+* João: [The Poor Old Heart of the Milky Way](https://arxiv.org/abs/2209.02722)
+* João:  [Probing the Galactic halo with RR Lyrae stars − III. The chemical and kinematic properties of the stellar halo](https://arxiv.org/abs/2209.07885)
 
 ### September 2nd 2022:
 
@@ -645,7 +645,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### August 12th 2022:
 
-* Joao: [The Stellar Halo of the Galaxy is Tilted & Doubly Broken](https://arxiv.org/abs/2208.04327)
+* João: [The Stellar Halo of the Galaxy is Tilted & Doubly Broken](https://arxiv.org/abs/2208.04327)
 
 ### August 5th 2022:
 
@@ -690,7 +690,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### April 29th 2022:
 
-* Joao: [Live Fast, Die α-Enhanced: The Mass-Metallicity-α Relation of the Milky Way's Disrupted Dwarf Galaxies](https://arxiv.org/abs/2204.09057)
+* João: [Live Fast, Die α-Enhanced: The Mass-Metallicity-α Relation of the Milky Way's Disrupted Dwarf Galaxies](https://arxiv.org/abs/2204.09057)
 
 ### Aprtil 22nd 2022:
 
@@ -698,7 +698,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### April 8th 2022:
 
-* Joao: [A time-resolved picture of our Milky Way's early formation history](https://arxiv.org/abs/2203.12110)
+* João: [A time-resolved picture of our Milky Way's early formation history](https://arxiv.org/abs/2203.12110)
 
 ### April 1st 2022:
 
@@ -762,7 +762,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### October 1st 2021:
 
-* Joao: [The Flattening Metallicity Gradient in the Milky Way's Thin Disk](https://arxiv.org/abs/2109.09250)
+* João: [The Flattening Metallicity Gradient in the Milky Way's Thin Disk](https://arxiv.org/abs/2109.09250)
 
 ### September 24th 2021:
 
@@ -778,12 +778,12 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### August 20th 2021:
 
-* Joao: [Accretion relics in the solar neighbourhood: Debris from ωCen's parent galaxy](https://ui.adsabs.harvard.edu/abs/2005MNRAS.359...93M/abstract)
+* João: [Accretion relics in the solar neighbourhood: Debris from ωCen's parent galaxy](https://ui.adsabs.harvard.edu/abs/2005MNRAS.359...93M/abstract)
 
 ### July 30th 2021:
 
 * Fabrícia: [Relating the Diverse Merger Histories and Satellite Populations of Nearby Galaxies](https://arxiv.org/abs/2107.04591)
-* Joao: [The Kinematic Properties of Milky Way Stellar Halo Populations](https://arxiv.org/abs/2106.09699)
+* João: [The Kinematic Properties of Milky Way Stellar Halo Populations](https://arxiv.org/abs/2106.09699)
 
 ### July 23th 2021:
 
@@ -807,7 +807,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### June, 18th 2021:
 
-* Joao: [The Pristine survey XIV: Uncovering the very metal-poor tail of the thin disc](https://arxiv.org/abs/2106.03406)
+* João: [The Pristine survey XIV: Uncovering the very metal-poor tail of the thin disc](https://arxiv.org/abs/2106.03406)
 
 ### June, 11th 2021:
 
@@ -816,11 +816,11 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### June, 4th 2021:
 
 * Guilherme: [Chemodynamically Characterizing the Jhelum Stellar Stream with APOGEE-2](https://arxiv.org/abs/2103.07488)
-* Joao: [Deciphering The Last Major Invasion of the Milky Way Galaxy](https://ui.adsabs.harvard.edu/abs/2002ApJ...574L..39G/abstract)	
+* João: [Deciphering The Last Major Invasion of the Milky Way Galaxy](https://ui.adsabs.harvard.edu/abs/2002ApJ...574L..39G/abstract)	
 
 ### May, 28 2021:
 
-* Joao: [Selecting accreted populations: metallicity, elemental abundances, and ages of the Gaia-Sausage-Enceladus and Sequoia populations](https://arxiv.org/abs/2105.12141)
+* João: [Selecting accreted populations: metallicity, elemental abundances, and ages of the Gaia-Sausage-Enceladus and Sequoia populations](https://arxiv.org/abs/2105.12141)
 
 ### May, 21 2021:
 
@@ -843,7 +843,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### April, 23 2021:
 
 * Guilherme: [The GALAH Survey: No chemical evidence of an extragalactic origin for the Nyx stream](https://arxiv.org/abs/2104.08684)
-* Joao: [Linking nearby stellar streams to more distant halo overdensities](https://arxiv.org/abs/2104.09794)
+* João: [Linking nearby stellar streams to more distant halo overdensities](https://arxiv.org/abs/2104.09794)
 
 ### April, 16 2021:
 
@@ -856,17 +856,17 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### March, 26th 2021:
 
-* Joao & Guilherme: [Reconstructing the Last Major Merger of the Milky Way with the H3 Survey](https://arxiv.org/abs/2103.03251)
+* João & Guilherme: [Reconstructing the Last Major Merger of the Milky Way with the H3 Survey](https://arxiv.org/abs/2103.03251)
 
 ### March, 12th 2021:
 
 * Yuri: [An extended halo around an ancient dwarf galaxy](https://arxiv.org/abs/2012.02309)
-* Joao: [The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars](https://arxiv.org/abs/2102.00731)
+* João: [The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars](https://arxiv.org/abs/2102.00731)
 
 ### February, 26th 2021:
 
 * Laís: [Radial structure and formation of the Milky Way disc](https://arxiv.org/abs/2102.02082)
-* Joao: [Tree-ring structure of Galactic bar resonance](https://arxiv.org/abs/2102.08388)
+* João: [Tree-ring structure of Galactic bar resonance](https://arxiv.org/abs/2102.08388)
 
 ### February, 19th 2021:
 
@@ -883,7 +883,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### January, 29th 2021:
 
-* Joao: [Ancient Very Metal-Poor Stars Associated With the Galactic Disk in the H3 Survey](https://arxiv.org/abs/2012.00036)
+* João: [Ancient Very Metal-Poor Stars Associated With the Galactic Disk in the H3 Survey](https://arxiv.org/abs/2012.00036)
 * Lais:  [Exploring the Galactic Anticenter substructure with LAMOST & Gaia DR2](https://arxiv.org/abs/2101.02540)
 
 ### December, 11th 2020:
@@ -909,7 +909,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### October 30th 2020:
 
 * Guilherme: [Origin of the system of globular clusters in the Milky Way](https://arxiv.org/abs/1906.08271)
-* Joao: [Frequencies, chaos and resonances: a study of orbital parameters of nearby thick disc and halo stars](https://arxiv.org/abs/2009.04849)
+* João: [Frequencies, chaos and resonances: a study of orbital parameters of nearby thick disc and halo stars](https://arxiv.org/abs/2009.04849)
 
 ### October 16th 2020:
 
@@ -925,7 +925,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### September 18th 2020:
 
-* Joao: [Chemo-dynamics of prograde and retrograde Milky Way stars](https://arxiv.org/abs/2009.07192)
+* João: [Chemo-dynamics of prograde and retrograde Milky Way stars](https://arxiv.org/abs/2009.07192)
 
 ### September 11th 2020:
 
@@ -934,7 +934,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### September 4th 2020:
 
 * Guilherme: [The Southern Stellar Stream Spectroscopic Survey (S5): Chemical Abundances of Seven Stellar Streams](https://arxiv.org/abs/2008.07568)
-* Joao: [Mapping the Galactic disk with the LAMOST and Gaia Red clump sample: V: On the origin of the "young" [α/Fe]-enhanced stars](https://arxiv.org/abs/2008.10218)
+* João: [Mapping the Galactic disk with the LAMOST and Gaia Red clump sample: V: On the origin of the "young" [α/Fe]-enhanced stars](https://arxiv.org/abs/2008.10218)
 
 ### August 28th 2020:
 
@@ -956,57 +956,57 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### July 24th 2020
 
 * Hélio: [Mapping the Galactic disk with the LAMOST and Gaia red clump sample: IV: the kinematic signature of the Galactic warp](https://arxiv.org/abs/2007.06947)
-* Joao: [The heavy-elements heritage of the falling sky](https://arxiv.org/abs/2007.08313)
+* João: [The heavy-elements heritage of the falling sky](https://arxiv.org/abs/2007.08313)
 
 ### July 16th 2020
 
-* Hélio e Joao: [Evidence from the H3 Survey that the Stellar Halo is Entirely Comprised of Substructure](https://arxiv.org/abs/2006.08625)
+* Hélio e João: [Evidence from the H3 Survey that the Stellar Halo is Entirely Comprised of Substructure](https://arxiv.org/abs/2006.08625)
 
 ### June 26th 2020
 
-* Joao: [A massive mess: When a large dwarf and a Milky Way-like galaxy merge](https://arxiv.org/abs/2006.07620)
+* João: [A massive mess: When a large dwarf and a Milky Way-like galaxy merge](https://arxiv.org/abs/2006.07620)
 
 ### June 19th 2020
 
 * Hélio Perottoni: [Galactic Archaeology with asteroseismic ages: evidence for delayed gas infall in the formation of the Milky Way disc](https://arxiv.org/abs/1809.00914)
-* Joao: [Chemical Enrichment and Radial Migration in the Galactic Disk -- the origin of the [α/Fe] Double Sequence](https://arxiv.org/abs/2005.03646)
+* João: [Chemical Enrichment and Radial Migration in the Galactic Disk -- the origin of the [α/Fe] Double Sequence](https://arxiv.org/abs/2005.03646)
 
 ### June 12th 2020
 
-* Joao: [The Gaia-ESO survey: the non-universality of the age-chemical-clocks-metallicity relations in the Galactic disc](https://arxiv.org/abs/2006.05763)
+* João: [The Gaia-ESO survey: the non-universality of the age-chemical-clocks-metallicity relations in the Galactic disc](https://arxiv.org/abs/2006.05763)
 
 ### June, 5th 2020
 
-* Joao: [Chronologically dating the early assembly of the Milky Way](https://arxiv.org/abs/2006.01783)
+* João: [Chronologically dating the early assembly of the Milky Way](https://arxiv.org/abs/2006.01783)
 * Hélio Perottoni: [The Galactic warp revealed by Gaia DR2 kinematics](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481L..21P/abstract)
 
 ### May, 22th 2020
 
-* Joao: [The Pristine Dwarf-Galaxy survey -- III. Revealing the nature of the Milky Way globular cluster Sagittarius II](https://arxiv.org/abs/2005.05976)
+* João: [The Pristine Dwarf-Galaxy survey -- III. Revealing the nature of the Milky Way globular cluster Sagittarius II](https://arxiv.org/abs/2005.05976)
 * Hélio Perottoni: [Common origin for Hercules-Aquila and Virgo Clouds in Gaia DR2](https://arxiv.org/abs/1807.01335)
 
 ### May, 15th 2020
 
-* Joao: [Insights into the Formation and Evolution History of the Galactic Disk System](https://arxiv.org/abs/2005.04866)
+* João: [Insights into the Formation and Evolution History of the Galactic Disk System](https://arxiv.org/abs/2005.04866)
 
 ### May, 08th 2020
 
-* Joao: [Age dissection of the Milky Way discs: red giants in the Kepler field](https://arxiv.org/abs/2004.14806)
+* João: [Age dissection of the Milky Way discs: red giants in the Kepler field](https://arxiv.org/abs/2004.14806)
 * Hélio Perottoni: [Chemo-dynamical properties of the Anticenter Stream: a surviving disc fossil from a past satellite interaction](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492L..61L/abstract)
 
 ### May, 01st 2020
 
 * Helio Rocha-Pinto: [The recurrent impact of the Sagittarius dwarf on the Milky Way star formation history](https://arxiv.org/abs/2003.12577)
-* Joao: [Timing the Early Assembly of the Milky Way with the H3 Survey](https://arxiv.org/abs/2004.11384)
+* João: [Timing the Early Assembly of the Milky Way with the H3 Survey](https://arxiv.org/abs/2004.11384)
 * Hélio Perottoni: [Streams, substructures and the early history of the Milky Way (Part 3)](https://arxiv.org/abs/2002.04340)
 
 
 ### April, 24th 2020
 
-* Joao: [Fundamental relations for the velocity dispersion of stars in the Milky Way](https://arxiv.org/abs/2004.06556)
+* João: [Fundamental relations for the velocity dispersion of stars in the Milky Way](https://arxiv.org/abs/2004.06556)
 * Hélio Perottoni: [Streams, substructures and the early history of the Milky Way (Part 2)](https://arxiv.org/abs/2002.04340)
 
 ### April, 17th 2020
 
-* Joao: [Deflection of the hypervelocity stars by the dance of the Milky Way and Large Magellanic Cloud](http://arxiv.org/abs/2004.00633)
+* João: [Deflection of the hypervelocity stars by the dance of the Milky Way and Large Magellanic Cloud](http://arxiv.org/abs/2004.00633)
 * Hélio Perottoni: [Streams, substructures and the early history of the Milky Way (Part 1)](https://arxiv.org/abs/2002.04340)
