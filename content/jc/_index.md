@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-12
+date: 2026-06-15
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Reconstructing the orbits of Milky Way dwarf galaxies: An LMC perspective](https://arxiv.org/abs/2606.13787)
 * [The Hubble Missing Globular Clusters Survey IV. Ultra-faint compact satellites of the Milky Way. The case of Koposov 2](https://arxiv.org/abs/2606.12517)
 * [CAPOS: The bulge Cluster APOgee Survey XII. Abundances for 98 PIGS metal-poor Bulge field giants](https://arxiv.org/abs/2606.12583)
 * [Influence of the resonance ring gravity on the stellar velocity distribution near the OLR of the Galactic bar](https://arxiv.org/abs/2606.12589)
