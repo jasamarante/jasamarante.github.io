@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-15
+date: 2026-06-16
 
 ---
 
@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [A Multimessenger Analysis of the High-Energy Milky Way: Source Populations Contribute Significantly to IceCube's Galactic Neutrino Flux](https://arxiv.org/abs/2606.14848)
+* [The Milky Way as a distant galaxy: an IFU and panchromatic view](https://arxiv.org/abs/2606.14973)
+* [The Dynamics of Old Inner Galaxy Stars in Milky Way-mass Galaxies Using FIRE-2 Simulations](https://arxiv.org/abs/2606.16079)
+* [A Strong Stellar Age-Metallicity Gradient Relation in Nearby Dwarf Galaxies Driven by Stellar Migration and Environmental Quenching](https://arxiv.org/abs/2606.16218)
+* [The Milky Way's Missing In-Situ Halo](https://arxiv.org/abs/2606.16277)
+* [Co-evolution of bar and spiral arms in TNG50 simulations using Information Theory](https://arxiv.org/abs/2606.16403)
 * [Reconstructing the orbits of Milky Way dwarf galaxies: An LMC perspective](https://arxiv.org/abs/2606.13787)
 * [The Hubble Missing Globular Clusters Survey IV. Ultra-faint compact satellites of the Milky Way. The case of Koposov 2](https://arxiv.org/abs/2606.12517)
 * [CAPOS: The bulge Cluster APOgee Survey XII. Abundances for 98 PIGS metal-poor Bulge field giants](https://arxiv.org/abs/2606.12583)
