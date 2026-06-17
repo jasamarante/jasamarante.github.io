@@ -1,10 +1,14 @@
 ---
 
-date: 2026-05-26
+date: 2026-06-17
 
 ---
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
+
+## June 16th 2026:
+
+* Benjamin: [A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055](https://arxiv.org/abs/2605.15273)
 
 ## May 26th 2026:
 

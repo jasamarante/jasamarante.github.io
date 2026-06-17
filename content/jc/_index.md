@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-16
+date: 2026-06-17
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way](https://arxiv.org/abs/2606.17674)
+* [Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo](https://arxiv.org/abs/2606.17754)
 * [A Multimessenger Analysis of the High-Energy Milky Way: Source Populations Contribute Significantly to IceCube's Galactic Neutrino Flux](https://arxiv.org/abs/2606.14848)
 * [The Milky Way as a distant galaxy: an IFU and panchromatic view](https://arxiv.org/abs/2606.14973)
 * [The Dynamics of Old Inner Galaxy Stars in Milky Way-mass Galaxies Using FIRE-2 Simulations](https://arxiv.org/abs/2606.16079)
