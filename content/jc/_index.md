@@ -9,6 +9,13 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [A Long Period Stellar-Mass Black Hole Binary in ω Centauri](https://arxiv.org/abs/2606.18350)
+* [TNG SAM: Bridging Hydrodynamical Complexity and Semi-Analytic Efficiency to Model Galaxy Formation](https://arxiv.org/abs/2606.18352)
+* [Reconstructing Galactic Gravitational Potentials from Stellar Kinematics with Physics-Informed Neural Networks](https://arxiv.org/abs/2606.18386)
+* [Dynamical evolution of dark matter subhaloes in the Milky Way: role of the Galactic disc](https://arxiv.org/abs/2606.18708)
+* [Disentangling the Distant Stellar Halo Using K-Giants in the DESI Year 3 Data](https://arxiv.org/abs/2606.18849)
+* [Revealing α-Element's Past with Subaru/IRD: Oxygen Abundance of 35 Very Metal-Poor Stars from Near-IR OH lines](https://arxiv.org/abs/2606.18862)
+* [IllustrisTNG50 angular momentum maps: tracing the morpho-kinematic evolution of galaxies](https://arxiv.org/abs/2606.19099)
 * [TOPoS VII. Age-metallicity relation in the Galactic halo and assembly of the Milky Way](https://arxiv.org/abs/2606.17674)
 * [Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo](https://arxiv.org/abs/2606.17754)
 * [A Multimessenger Analysis of the High-Energy Milky Way: Source Populations Contribute Significantly to IceCube's Galactic Neutrino Flux](https://arxiv.org/abs/2606.14848)
