@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-17
+date: 2026-06-23
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Globular Clusters in the Time of the JWST. I. Survey Design and First Results on Multiple Populations and Beyond](https://arxiv.org/abs/2606.20979)
+* [Resolved Ages and Stellar Metallicities in Progenitors of Milky Way Analogs: A Closer Look at their Star Formation Histories since z=5](https://arxiv.org/abs/2606.21651)
+* [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies](https://arxiv.org/abs/2606.23014)
+* [Spatially resolved star formation history of Sextans dSph](https://arxiv.org/abs/2606.23216)
 * [A Long Period Stellar-Mass Black Hole Binary in ω Centauri](https://arxiv.org/abs/2606.18350)
 * [TNG SAM: Bridging Hydrodynamical Complexity and Semi-Analytic Efficiency to Model Galaxy Formation](https://arxiv.org/abs/2606.18352)
 * [Reconstructing Galactic Gravitational Potentials from Stellar Kinematics with Physics-Informed Neural Networks](https://arxiv.org/abs/2606.18386)

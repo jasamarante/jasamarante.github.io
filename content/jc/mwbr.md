@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-06-16
+date: 2026-06-23
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## June 23rd 2026:
+
+* Thayse: [The edge of the Milky Way’s star-forming disc: Evidence from a ’U-shaped’ stellar age profile](https://arxiv.org/abs/2603.18737)
+* Friedrich: [Milky Way Mapper decoded abundances ─ I. Shared disc enrichment patterns](https://arxiv.org/abs/2605.20487)
 
 ## June 16th 2026:
 
@@ -209,7 +214,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 ### May 7th 2025:
 
 * Guilherme: [The Cocytos Stream: A Disrupted Globular Cluster from our Last Major Merger?](https://arxiv.org/abs/2504.11687)
-* Fred: [Spatial Age Distribution of Classical Cepheids in Spiral Galaxies: M31 and M33](https://arxiv.org/abs/2504.12638)
+* Friedrich: [Spatial Age Distribution of Classical Cepheids in Spiral Galaxies: M31 and M33](https://arxiv.org/abs/2504.12638)
 
 ### April 23rd 2025:
 
@@ -429,7 +434,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 ### February 19th 2024:
 
 * André: [A strontium-rich ultra-metal-poor star in the Atari disc component](https://arxiv.org/abs/2402.07046)
-* Fred: [Galaxy assembly revealed by globular clusters](https://arxiv.org/abs/2401.17420)
+* Friedrich: [Galaxy assembly revealed by globular clusters](https://arxiv.org/abs/2401.17420)
 
 ### February 5th 20204:
 

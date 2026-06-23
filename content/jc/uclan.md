@@ -6,6 +6,10 @@ date: 2026-06-17
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## June 23rd 2026:
+
+* Matt: [Machine learning technique for morphological classification of galaxies from SDSS. IV. Visual inspection vs CNN for merging, irregular, edge-on, barred, ringed, and with dust lanes galaxies at 0.02<z<0.1](https://arxiv.org/pdf/2604.24471)
+
 ## June 16th 2026:
 
 * Benjamin: [A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055](https://arxiv.org/abs/2605.15273)
