@@ -9,7 +9,6 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ## June 23rd 2026:
 
-* Thayse: [The edge of the Milky Way’s star-forming disc: Evidence from a ’U-shaped’ stellar age profile](https://arxiv.org/abs/2603.18737)
 * Friedrich: [Milky Way Mapper decoded abundances ─ I. Shared disc enrichment patterns](https://arxiv.org/abs/2605.20487)
 
 ## June 16th 2026:
