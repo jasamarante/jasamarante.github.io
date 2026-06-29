@@ -6,6 +6,10 @@ date: 2026-06-17
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## June 30th 2026:
+
+* Micole: [Self-consistent dynamical modelling of the Milky Way bar with orbital frequency analysis](https://arxiv.org/pdf/2605.12424)
+
 ## June 23rd 2026:
 
 * Matt: [Machine learning technique for morphological classification of galaxies from SDSS. IV. Visual inspection vs CNN for merging, irregular, edge-on, barred, ringed, and with dust lanes galaxies at 0.02<z<0.1](https://arxiv.org/pdf/2604.24471)
