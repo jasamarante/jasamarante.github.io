@@ -45,7 +45,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### April 7th 2026:
 
-* Lais: [The structure and evolution of the Galactic high- disc I. Chemical and age orbital cartography](https://arxiv.org/abs/2603.19230)
+* Lais: [The structure and evolution of the Galactic high-alpha disc I. Chemical and age orbital cartography](https://arxiv.org/abs/2603.19230)
 * Fabrícia: [oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri](https://arxiv.org/pdf/2603.23589)
 
 ### March 31st 2026:
@@ -244,8 +244,6 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 * Hélio: [Group Accretion in Milky Way-like Stellar Haloes](https://arxiv.org/abs/2504.00880)
 * Lais: [Chronology of our Galaxy from Gaia colour-magnitude diagram fitting (ChronoGal) II. Unveiling the formation and evolution of the kinematically selected Thick and Thin Discs](https://arxiv.org/abs/2503.19536)
 
-
-
 ### March 26th 2025:
 
 * Ingrid: [Bar formation and evolution in the cosmological context: inputs from the Auriga simulations](https://arxiv.org/abs/2406.09453)
@@ -277,7 +275,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### January 29th 2025:
 
-* Hélio: [Clumps as multiscale structures in Cosmic Noon galaxies] (https://arxiv.org/pdf/2501.03328)
+* Hélio: [Clumps as multiscale structures in Cosmic Noon galaxies](https://arxiv.org/pdf/2501.03328)
 * Lais: [Precise Masses, Ages of ~1.0 million RGB and RC stars observed by the LAMOST](https://arxiv.org/abs/2305.04528) 
 
 ### January 22nd 2025:
@@ -309,7 +307,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 
 ### October 28th 2024:
 
-* Lais: [Modelling the density and mass of the Milky Way’s proto-galaxy components with APOGEE-Gaia] (https://arxiv.org/abs/2410.16374)
+* Lais: [Modelling the density and mass of the Milky Way’s proto-galaxy components with APOGEE-Gaia](https://arxiv.org/abs/2410.16374)
 
 ### October 21st 2024: 
 
@@ -677,7 +675,7 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### June 3rd 2022:
 
-* Guilherme: [The star formation history of a Galactic halo building block: The Helmi streams] (https://arxiv.org/abs/2205.13810)
+* Guilherme: [The star formation history of a Galactic halo building block: The Helmi streams](https://arxiv.org/abs/2205.13810)
 
 
 ### May 27th 2022:
@@ -706,19 +704,19 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### April 1st 2022:
 
-* Guilherme: [The synchronised dance of the Magellanic Clouds' star formation history] (https://arxiv.org/abs/2203.09523)
+* Guilherme: [The synchronised dance of the Magellanic Clouds' star formation history](https://arxiv.org/abs/2203.09523)
 
 ### March 11 2022:
 
-* Guilherme: [Gaia-ESO Survey: Detailed elemental abundances in red giants of the peculiar globular cluster NGC 1851] (https://arxiv.org/abs/2111.10684)
+* Guilherme: [Gaia-ESO Survey: Detailed elemental abundances in red giants of the peculiar globular cluster NGC 1851](https://arxiv.org/abs/2111.10684)
 
 ### February 25th 2022:
 
-* Guilherme: [Galaxies lacking dark matter produced by close encounters in a cosmological simulation] (https://arxiv.org/abs/2202.05836)
+* Guilherme: [Galaxies lacking dark matter produced by close encounters in a cosmological simulation](https://arxiv.org/abs/2202.05836)
 
 ### February 18th 2022:
 
-* João: [A tilt in the Dark Matter Halo of the Galaxy] (https://arxiv.org/abs/2202.07662)
+* João: [A tilt in the Dark Matter Halo of the Galaxy](https://arxiv.org/abs/2202.07662)
 
 ### February 4th 2022:
 
@@ -726,19 +724,19 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### January 28th 2022:
 
-* Yuri: [The structure of accreted stellar streams] (https://arxiv.org/abs/2201.11045)
+* Yuri: [The structure of accreted stellar streams](https://arxiv.org/abs/2201.11045)
 
 ### January 21st 20222:
 
-* Lais: [The outer disc in shambles: blind detection of Monoceros and ACS with Gaia's astrometric sample] (https://arxiv.org/abs/2011.01241)
+* Lais: [The outer disc in shambles: blind detection of Monoceros and ACS with Gaia's astrometric sample](https://arxiv.org/abs/2011.01241)
 
 ### January 14th 2022:
 
-* Guilherme: [A stellar stream remnant of a globular cluster below the metallicity floor] (https://arxiv.org/abs/2201.01309)
+* Guilherme: [A stellar stream remnant of a globular cluster below the metallicity floor](https://arxiv.org/abs/2201.01309)
 
 ### December 17th 2021:
 
-* Guilherme: [The Complexity of the Cetus Stream Unveiled from the Fusion of STREAMFINDER and StarGO] (https://arxiv.org/abs/2112.05775).
+* Guilherme: [The Complexity of the Cetus Stream Unveiled from the Fusion of STREAMFINDER and StarGO](https://arxiv.org/abs/2112.05775).
 
 ### December 10th 2021:
 
@@ -750,19 +748,19 @@ carbon-enhanced metal-poor stars among various stellar surveys](https://arxiv.or
 
 ### November 5th 2021:
 
-* Guilherme: [Evidence from Disrupted Halo Dwarfs that r-process Enrichment via Neutron Star Mergers is Delayed by ≳500 Myrs] (https://arxiv.org/abs/2110.14652)
+* Guilherme: [Evidence from Disrupted Halo Dwarfs that r-process Enrichment via Neutron Star Mergers is Delayed by ≳500 Myrs](https://arxiv.org/abs/2110.14652)
 
 ### October 29th 2021:
 
-* Yuri: [The Most Metal-poor Stars in the Magellanic Clouds are r-process Enhanced] (https://arxiv.org/abs/2108.10880)
+* Yuri: [The Most Metal-poor Stars in the Magellanic Clouds are r-process Enhanced](https://arxiv.org/abs/2108.10880)
 
 ### October 15th 2021:
 
-* Guilherme: [A whirling plane of satellite galaxies around Centaurus A challenges cold dark matter cosmology] (https://arxiv.org/abs/1802.00081). 
+* Guilherme: [A whirling plane of satellite galaxies around Centaurus A challenges cold dark matter cosmology](https://arxiv.org/abs/1802.00081). 
 
 ### October 8th 2021:
 
-* Hélio: [A New Set of Chisels for Galactic Archeology: Sc, V, and Zn as Taggers of Accreted Globular Clusters] (https://ui.adsabs.harvard.edu/abs/2021ApJ...918L..32M/abstract)
+* Hélio: [A New Set of Chisels for Galactic Archeology: Sc, V, and Zn as Taggers of Accreted Globular Clusters](https://ui.adsabs.harvard.edu/abs/2021ApJ...918L..32M/abstract)
 
 ### October 1st 2021:
 
