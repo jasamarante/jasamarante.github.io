@@ -13,6 +13,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 * [Start of orbit librations and the bar growth timescale](https://arxiv.org/abs/2606.27097)
 * [Evaluating the Sensitivity of the Age Inferences of Red Giant Stars to Machine Learning Methodology](https://arxiv.org/abs/2606.24383)
 * [The Galactic Center as a connected ecosystem across spatial and temporal scales](https://arxiv.org/abs/2606.24706)
+* [Euclid Quick Data Release (Q2) -- The Euclid Galactic Bulge Survey](https://arxiv.org/abs/2606.25883)
 * [Globular Clusters in the Time of the JWST. I. Survey Design and First Results on Multiple Populations and Beyond](https://arxiv.org/abs/2606.20979)
 * [Resolved Ages and Stellar Metallicities in Progenitors of Milky Way Analogs: A Closer Look at their Star Formation Histories since z=5](https://arxiv.org/abs/2606.21651)
 * [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies](https://arxiv.org/abs/2606.23014)
