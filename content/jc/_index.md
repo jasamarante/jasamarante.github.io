@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Indigenizing the Drake Equation: how Indigenous methods can help us understand life in the Milky Way Galaxy](https://arxiv.org/abs/2606.26296)
+* [Start of orbit librations and the bar growth timescale](https://arxiv.org/abs/2606.27097)
 * [Evaluating the Sensitivity of the Age Inferences of Red Giant Stars to Machine Learning Methodology](https://arxiv.org/abs/2606.24383)
 * [The Galactic Center as a connected ecosystem across spatial and temporal scales](https://arxiv.org/abs/2606.24706)
 * [Globular Clusters in the Time of the JWST. I. Survey Design and First Results on Multiple Populations and Beyond](https://arxiv.org/abs/2606.20979)
