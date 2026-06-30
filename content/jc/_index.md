@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Evidence of Supernova Between Formation of Stellar Populations in a Globular Cluster](https://arxiv.org/abs/2606.29435)
+* [Globular cluster formation with multiple stellar populations: A comprehensive overview of a star-cloud interaction scenario](https://arxiv.org/abs/2606.29707)
 * [Mapping the Milky Way with Masers](https://arxiv.org/abs/2606.27692)
 * [Indigenizing the Drake Equation: how Indigenous methods can help us understand life in the Milky Way Galaxy](https://arxiv.org/abs/2606.26296)
 * [Start of orbit librations and the bar growth timescale](https://arxiv.org/abs/2606.27097)
