@@ -7,39 +7,44 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
-## June 23rd 2026:
+### June 30th 2026:
+
+* Nicholas: [Bar-induced migration of ω Centauri away from Gaia Sausage-Enceladus](https://arxiv.org/abs/2606.12516)
+* Agenor: [Tracing the very early disruption of the Sagittarius dwarf galaxy in the distant Milky Way halo](https://arxiv.org/abs/2606.17754).
+
+### June 23rd 2026:
 
 * Friedrich: [Milky Way Mapper decoded abundances ─ I. Shared disc enrichment patterns](https://arxiv.org/abs/2605.20487)
 
-## June 16th 2026:
+### June 16th 2026:
 
 * André: [TYC 170–1218–1: A new r-process-enhanced extremely metal-poor star, rich in Th](https://www.aanda.org/articles/aa/abs/2026/06/aa59099-26/aa59099-26.html)
 * João: [Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn](https://arxiv.org/abs/2606.13078)
 
-## June 2nd 2026:
+### June 2nd 2026:
 
 * Lais: [Co-evolution of the Milky Way high- and low-α sequences with chemical evolution models](https://arxiv.org/abs/2605.10596)
 * João: [Through Thick and Thin: The Cosmic Evolution of Disk Scale Height](https://arxiv.org/abs/2601.04988)
 
-## May 19th 2026:
+### May 19th 2026:
 
 * Thayse: [Stellar population astrophysics (SPA) with the TNG. The Phosphorus abundance on the young side of Milky Way](https://arxiv.org/abs/2510.14791)
 * João: [Kinematic hints of a nuclear bar in the Milky Way](https://arxiv.org/abs/2605.16105)
 
-## May 12th 2026:
+### May 12th 2026:
 
 * André: [Ag I model atom and the 3D non-LTE solar silver abundance](https://arxiv.org/abs/2605.05356)
 
-## May 5th 2026:
+### May 5th 2026:
 
 * Lais: [The chemical fingerprint of the Gaia BH3 system. Evidence for early cluster enrichment from the analysis of 51 elements](https://arxiv.org/abs/2605.02353)
 * Felipe: [apresentação da própria pesquisa]
 
-## April 28th 2026:
+### April 28th 2026:
 
 * Guilherme: Status update on Stellar Archaeology with Gaia (Slides) -- baseado em um colóquio recentemente apresentado na University of Washington. 
 
-## April 14th 2026:
+### April 14th 2026:
 
 * Nicholas: [Too Big to Quench? I. Constraining ISM Stripping of Dwarf Satellites in Milky Way-like Halos](https://arxiv.org/abs/2604.07613)
 
