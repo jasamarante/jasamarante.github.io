@@ -1,6 +1,6 @@
 ---
 
-date: 2026-06-23
+date: 2026-07-02
 
 ---
 
@@ -9,6 +9,16 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## June 2026:
 
+* [Wrinkles in Time. II. Stellar Age Trends in Kinematic Signatures from Transient Spiral Structure](https://arxiv.org/abs/2606.30752)
+* [Chemical evolution of the Milky Way disc with radial gas flows: a Lagrangian approach](https://arxiv.org/abs/2606.31161)
+* [Hot or Cold? Radial Redistribution of Stars in FIRE Simulations of Milky Way-Mass Galaxies and the Asymmetry of Inward versus Outward Migrators](https://arxiv.org/abs/2607.00077)
+* [The Stellar "Snake"-V: the census within 3 kpc in the Solar Neighborhood](https://arxiv.org/abs/2607.00098)
+* [The evolution of high-z proto-star clusters into local globular clusters](https://arxiv.org/abs/2607.00206)
+* [Dissecting the 3D chemo-dynamical structures of NGC 1381: a galaxy hosting an ancient slow bar with an accreted bulge and thick disc](https://arxiv.org/abs/2607.00497)
+* [The age of the Universe from a large sample of the oldest Galactic stars](https://arxiv.org/abs/2607.00764)
+* [The Milky Way Atlas for Linear Filaments III: Giant filaments and magnetic fields as evidence of a bubbly Galactic disk](https://arxiv.org/abs/2607.00976)
+* [Bar-driven secular evolution largely complete in a disk galaxy 7.6 billion years ago](https://arxiv.org/abs/2607.00982)
+* [Exploring the Milky Way stellar disk. Carbon, nitrogen, oxygen, sulphur, potassium, and copper abundances for 714 F and G dwarf stars in the solar neighbourhood](https://arxiv.org/abs/2607.01013)
 * [Evidence of Supernova Between Formation of Stellar Populations in a Globular Cluster](https://arxiv.org/abs/2606.29435)
 * [Globular cluster formation with multiple stellar populations: A comprehensive overview of a star-cloud interaction scenario](https://arxiv.org/abs/2606.29707)
 * [Mapping the Milky Way with Masers](https://arxiv.org/abs/2606.27692)
