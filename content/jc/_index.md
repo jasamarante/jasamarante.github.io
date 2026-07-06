@@ -7,6 +7,10 @@ date: 2026-07-02
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## July 2026:
+
+* [The Sun's chemical peculiarity: disentangling Galactic chemical evolution and planetary engulfment in solar twins](https://arxiv.org/abs/2607.01699)
+
 ## June 2026:
 
 * [Wrinkles in Time. II. Stellar Age Trends in Kinematic Signatures from Transient Spiral Structure](https://arxiv.org/abs/2606.30752)
