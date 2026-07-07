@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [The Epoch of the GSE Merger: Insights from the Splash and Thick Disk Age Distributions](https://arxiv.org/abs/2607.02940)
+* [Shared star formation in the Milky Way and Magellanic Clouds](arxiv.org/abs/2607.04883)
+* [Exploring the Magnetic Field Structure of the Milky Way with Pulsars in the SKA Era](https://arxiv.org/abs/2607.03314)
 * [The Sun's chemical peculiarity: disentangling Galactic chemical evolution and planetary engulfment in solar twins](https://arxiv.org/abs/2607.01699)
 
 ## June 2026:
