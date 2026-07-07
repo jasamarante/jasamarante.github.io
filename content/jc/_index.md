@@ -9,7 +9,6 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
-* []()
 * [The Sun's chemical peculiarity: disentangling Galactic chemical evolution and planetary engulfment in solar twins](https://arxiv.org/abs/2607.01699)
 
 ## June 2026:
