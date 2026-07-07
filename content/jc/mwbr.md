@@ -7,6 +7,10 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+## July 7th 2026:
+
+* Fabrícia: [The Milky Way’s Missing In-Situ Halo](https://arxiv.org/abs/2606.16277)
+
 ### June 30th 2026:
 
 * Nicholas: [Bar-induced migration of ω Centauri away from Gaia Sausage-Enceladus](https://arxiv.org/abs/2606.12516)
