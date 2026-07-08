@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [The tidal features of the classical Milky Way satellites: Expected in MOND but inconsistent with cold dark matter models](https://arxiv.org/abs/2607.05502)
+* [Constraints on the population level distribution of nearby Dark Matter halo shapes with extragalactic streams](https://arxiv.org/abs/2607.05510)
 * [The Epoch of the GSE Merger: Insights from the Splash and Thick Disk Age Distributions](https://arxiv.org/abs/2607.02940)
 * [Shared star formation in the Milky Way and Magellanic Clouds](arxiv.org/abs/2607.04883)
 * [Exploring the Magnetic Field Structure of the Milky Way with Pulsars in the SKA Era](https://arxiv.org/abs/2607.03314)
