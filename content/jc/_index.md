@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-02
+date: 2026-07-09
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Fast Dynamical Modelling of Milky Way Globular Clusters -- I. Implications for Initial Cluster Densities](https://arxiv.org/abs/2607.07010)
+* [Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors](https://arxiv.org/abs/2607.07068)
+* [Divergent Evolution of Radial Metallicity Gradients in the Thin and Thick Disks of the Milky Way](https://arxiv.org/abs/2607.07394)
+* [Milky Way Atlas: A radial-velocity-resolved, three-dimensional map of H I within 1.25 kpc](https://arxiv.org/abs/2607.07451)
 * [The tidal features of the classical Milky Way satellites: Expected in MOND but inconsistent with cold dark matter models](https://arxiv.org/abs/2607.05502)
 * [Constraints on the population level distribution of nearby Dark Matter halo shapes with extragalactic streams](https://arxiv.org/abs/2607.05510)
 * [The Epoch of the GSE Merger: Insights from the Splash and Thick Disk Age Distributions](https://arxiv.org/abs/2607.02940)
