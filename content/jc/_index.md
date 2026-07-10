@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Probing the origins. III. Exoplanet demographics across Galactic birth radii](https://arxiv.org/abs/2607.07787)
+* [Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy on an Eccentric Polar Orbit](https://arxiv.org/abs/2607.07803)
+* [Beryllium enhancement in stars of the accreted Thamnos-2 system](https://arxiv.org/abs/2607.08179)
+* [Milky Way Near Twins (MWNeTs). I. A Hierarchical Framework for Identifying the Evolutionary Counterparts of the Milky Way](https://arxiv.org/abs/2607.08336)
+* [Multiple populations along the asymptotic giant branch: a Gaia+APOGEE study of 22 Galactic globular clusters](https://arxiv.org/abs/2607.08376)
 * [Fast Dynamical Modelling of Milky Way Globular Clusters -- I. Implications for Initial Cluster Densities](https://arxiv.org/abs/2607.07010)
 * [Unveiling the Milky Way with a Gaia DR3 census of OB-type stars within 2 kpc. I. Tracing local Galactic structure, massive star-forming regions and core-collapse supernova progenitors](https://arxiv.org/abs/2607.07068)
 * [Divergent Evolution of Radial Metallicity Gradients in the Thin and Thick Disks of the Milky Way](https://arxiv.org/abs/2607.07394)
