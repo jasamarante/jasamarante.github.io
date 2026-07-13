@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-09
+date: 2026-07-13
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations](https://arxiv.org/abs/2607.08818)
+* [Characterising the Kinematics and Evolution of Young Stellar Groups within 1 kpc of the Sun Using Gaia DR3](https://arxiv.org/abs/2607.09464)
 * [Probing the origins. III. Exoplanet demographics across Galactic birth radii](https://arxiv.org/abs/2607.07787)
 * [Boötes III is a Tidally Disrupting Ultra-Faint Dwarf Galaxy on an Eccentric Polar Orbit](https://arxiv.org/abs/2607.07803)
 * [Beryllium enhancement in stars of the accreted Thamnos-2 system](https://arxiv.org/abs/2607.08179)
