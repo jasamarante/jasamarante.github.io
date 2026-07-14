@@ -1,10 +1,14 @@
 ---
 
-date: 2026-07-09
+date: 2026-07-14
 
 ---
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
+
+## July 14th 2026:
+
+* Benjamin: [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies]https://arxiv.org/abs/2606.23014)
 
 ## July 7th 2026:
 

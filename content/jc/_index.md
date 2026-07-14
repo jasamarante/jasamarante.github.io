@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Structural Diversity Among the Milky Way's Dwarf Spheroidal Satellites](https://arxiv.org/abs/2607.09308)
+* [Testing the validity of backward orbit reconstruction for outer Local Group dwarf galaxies in IllustrisTNG-100](https://arxiv.org/abs/2607.08831)
 * [Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations](https://arxiv.org/abs/2607.08818)
 * [Characterising the Kinematics and Evolution of Young Stellar Groups within 1 kpc of the Sun Using Gaia DR3](https://arxiv.org/abs/2607.09464)
 * [Probing the origins. III. Exoplanet demographics across Galactic birth radii](https://arxiv.org/abs/2607.07787)
