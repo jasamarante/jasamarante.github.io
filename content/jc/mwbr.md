@@ -1,11 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-07-09
+date: 2026-07-14
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+### July 14th 2026:
+
+* Hélio: [The Epoch of the GSE Merger: Insights from the Splash and Thick Disk Age Distributions](https://arxiv.org/abs/2607.02940)
 
 ### July 7th 2026:
 

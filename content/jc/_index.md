@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-13
+date: 2026-07-14
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [LISA's view of the Galactic Halo: forecasts for the Galactic double white dwarf population using Gaia data](https://arxiv.org/abs/2607.09980)
+* [Stellar Halo Memory: A New Observable for Galactic Archaeology](https://arxiv.org/abs/2607.10863)
 * [Structural Diversity Among the Milky Way's Dwarf Spheroidal Satellites](https://arxiv.org/abs/2607.09308)
 * [Testing the validity of backward orbit reconstruction for outer Local Group dwarf galaxies in IllustrisTNG-100](https://arxiv.org/abs/2607.08831)
 * [Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations](https://arxiv.org/abs/2607.08818)
