@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-14
+date: 2026-07-15
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [A Universal Distribution of Dark Matter in Milky Way-like galaxies and How to Infer It](https://arxiv.org/abs/2607.12008)
+* [The onset of stellar bars at Cosmic Noon. Bar-driven quenching and AGN co-evolution in a mature disc galaxy](https://arxiv.org/abs/2607.12016)
+* [A differentiable hydrodynamical approach to the Milky Way bar pattern speed with CO longitude--velocity data](https://arxiv.org/abs/2607.12146)
+* [Alignment of the Milky Way and M31 with their cosmic environment. New insights from constrained Local Group simulations](https://arxiv.org/abs/2607.13005)
 * [LISA's view of the Galactic Halo: forecasts for the Galactic double white dwarf population using Gaia data](https://arxiv.org/abs/2607.09980)
 * [Stellar Halo Memory: A New Observable for Galactic Archaeology](https://arxiv.org/abs/2607.10863)
 * [Structural Diversity Among the Milky Way's Dwarf Spheroidal Satellites](https://arxiv.org/abs/2607.09308)
