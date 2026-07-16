@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [On the current status of tidal tails of Galactic open clusters](https://arxiv.org/abs/2607.13747)
+* [Magnesium isotope ratios in Milky Way and dwarf galaxy stars](https://arxiv.org/abs/2607.14067)
 * [A Universal Distribution of Dark Matter in Milky Way-like galaxies and How to Infer It](https://arxiv.org/abs/2607.12008)
 * [The onset of stellar bars at Cosmic Noon. Bar-driven quenching and AGN co-evolution in a mature disc galaxy](https://arxiv.org/abs/2607.12016)
 * [A differentiable hydrodynamical approach to the Milky Way bar pattern speed with CO longitude--velocity data](https://arxiv.org/abs/2607.12146)
