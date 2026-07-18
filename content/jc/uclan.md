@@ -6,6 +6,10 @@ date: 2026-07-14
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
 
+## July 21st 2026:
+
+* Xiaojie: [Bar-driven secular evolution largely complete in a disk galaxy 7.6 billion years ago]( https://arxiv.org/abs/2607.00982) 
+
 ## July 14th 2026:
 
 * Benjamin: [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies](https://arxiv.org/abs/2606.23014)
