@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-17
+date: 2026-07-20
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [On the reconstruction of the Rotation Curve for Milky Way and its spacetime implications: a Machine Learning approach](https://arxiv.org/abs/2607.15320)
+* [Chemical Evolution of Galaxies: Past, Present and Future](https://arxiv.org/abs/2607.15803)
 * [Chemodynamical evidence of the HR 1614 moving group as a bar resonance](https://arxiv.org/abs/2607.14224)
 * [Berkeley 32: A Metal-poor and Dynamically Evolved Open Cluster with Evidence of Radial Migration](https://arxiv.org/abs/2607.15131)
 * [On the current status of tidal tails of Galactic open clusters](https://arxiv.org/abs/2607.13747)
