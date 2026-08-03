@@ -1,10 +1,14 @@
 ---
 
-date: 2026-07-14
+date: 2026-08-03
 
 ---
 
 Here's the list of papers discussed during the journal club of Prof. Victor Debattista's Galaxy Dynamics Group.
+
+## July 28th 2026:
+
+* Micole: [Self-interacting dark matter promotes bar formation in disk galaxies](https://arxiv.org/abs/2606.27480)
 
 ## July 21st 2026:
 

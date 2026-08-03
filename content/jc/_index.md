@@ -1,6 +1,6 @@
 ---
 
-date: 2026-07-20
+date: 2026-08-03
 
 ---
 
@@ -9,6 +9,17 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Superdiffusion at the Galactic Centre](https://arxiv.org/abs/2607.27317)
+* [PANTERA. I. Hunting for the Most Metal-Rich Stars in the Solar Neighborhood with High-Resolution Spectroscopy](https://arxiv.org/abs/2607.27328)
+* [Invariant manifolds in barred galaxy simulations. III. Self-regulated weakening of strong spiral arms](https://arxiv.org/abs/2607.27963)
+* [Characterizing the disruption of Böotes III: a missing link in the Galactic halo?](https://arxiv.org/abs/2607.28594)
+* [SDSS-V Local Volume Mapper (LVM): The Integrated Light and Internal Rotation of Omega Centauri](https://arxiv.org/abs/2607.28809)
+* [On the use of field RR Lyrae as Galactic probes:. IX. Radial velocities](https://arxiv.org/abs/2607.29597)
+* [Linking dynamics and chemistry in barred galaxies through action-space mapping](https://arxiv.org/abs/2607.25052)
+* [Long Tidal Tails of NGC 5024 Hidden in LMS-1 and NGC 5053 Tidal Streams](https://arxiv.org/abs/2607.21934)
+* [The disrupted chemical enrichment history of the Milky Way driven by gas accretion](https://arxiv.org/abs/2607.21937)
+* [A Deep Look at the Ultra-Faint Milky Way Satellite Virgo III with Rubin Observatory Data Preview 2](https://arxiv.org/abs/2607.25044)
+*[The IMF package: a toolkit implementing mass functions and statistical tools to analyze them](https://arxiv.org/abs/2607.26007)
 * [On the reconstruction of the Rotation Curve for Milky Way and its spacetime implications: a Machine Learning approach](https://arxiv.org/abs/2607.15320)
 * [Chemical Evolution of Galaxies: Past, Present and Future](https://arxiv.org/abs/2607.15803)
 * [Chemodynamical evidence of the HR 1614 moving group as a bar resonance](https://arxiv.org/abs/2607.14224)
