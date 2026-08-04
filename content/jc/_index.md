@@ -7,6 +7,10 @@ date: 2026-08-03
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## August 2026:
+
+* [Radial abundance gradients of 18 elements in Galactic open clusters from infrared MWM spectra A detailed analysis of 655 giants in 133 clusters](https://arxiv.org/abs/2608.02563)
+
 ## July 2026:
 
 * [Superdiffusion at the Galactic Centre](https://arxiv.org/abs/2607.27317)
