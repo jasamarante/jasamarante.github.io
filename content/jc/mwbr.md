@@ -1,11 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-07-14
+date: 2026-08-04
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+### August 4th 2026:
+
+* Nayara: [Exoplanets in ancient stellar populations: occurrence constraints and hot-Jupiter candidates in the Galactic halo](https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp.1298B/abstract)
 
 ### July 14th 2026:
 
