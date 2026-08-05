@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Chemical Abundances and Globular Clusters of Milky Way Dwarf Galaxies](https://arxiv.org/abs/2608.03312)
 * [Radial abundance gradients of 18 elements in Galactic open clusters from infrared MWM spectra A detailed analysis of 655 giants in 133 clusters](https://arxiv.org/abs/2608.02563)
 
 ## July 2026:
