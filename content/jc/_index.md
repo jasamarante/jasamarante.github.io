@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-03
+date: 2026-08-07
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [The two faces of tides: gravitational instability during galaxy mergers](https://arxiv.org/abs/2608.04528)
+* [Photometric Distances for Metal-poor Giants and a Search for Hypervelocity Stars with LAMOST DR13 and Gaia DR3](https://arxiv.org/abs/2608.05814)
+* [Ruffled Feathers: Merger-driven galaxy size growth and structural transformation in EAGLE](https://arxiv.org/abs/2608.05835)
+* [They Won't Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution](https://arxiv.org/abs/2608.06204)
 * [Chemo-dynamical stratification of the Galactic disc using \emph{Gaia}-ESO open clusters](https://arxiv.org/abs/2608.04165)
 * [Chemical Abundances and Globular Clusters of Milky Way Dwarf Galaxies](https://arxiv.org/abs/2608.03312)
 * [Radial abundance gradients of 18 elements in Galactic open clusters from infrared MWM spectra A detailed analysis of 655 giants in 133 clusters](https://arxiv.org/abs/2608.02563)
