@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-07
+date: 2026-08-10
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Detailed Abundance Determination of Metal-Poor Stars with X-Shooter II. - Chemically Disentangling the Halo, Disk and GSE](https://arxiv.org/abs/2608.06666)
+* [Tracing the early Milky Way thin disc with the Gaia-ESO Survey](https://arxiv.org/abs/2608.07347)
 * [The two faces of tides: gravitational instability during galaxy mergers](https://arxiv.org/abs/2608.04528)
 * [Photometric Distances for Metal-poor Giants and a Search for Hypervelocity Stars with LAMOST DR13 and Gaia DR3](https://arxiv.org/abs/2608.05814)
 * [Ruffled Feathers: Merger-driven galaxy size growth and structural transformation in EAGLE](https://arxiv.org/abs/2608.05835)
