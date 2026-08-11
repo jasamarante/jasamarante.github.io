@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-10
+date: 2026-08-11
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [The large-scale ordered magnetic field in the Galactic halo and the Local Bubble](https://arxiv.org/abs/2608.07679)
+* [Kings of the Milky Way: A Homogeneous Gaia DR3 Analysis of King Open Clusters and the Galactic Disc Metallicity Gradient](https://arxiv.org/abs/2608.08216)
 * [Detailed Abundance Determination of Metal-Poor Stars with X-Shooter II. - Chemically Disentangling the Halo, Disk and GSE](https://arxiv.org/abs/2608.06666)
 * [Tracing the early Milky Way thin disc with the Gaia-ESO Survey](https://arxiv.org/abs/2608.07347)
 * [The two faces of tides: gravitational instability during galaxy mergers](https://arxiv.org/abs/2608.04528)
