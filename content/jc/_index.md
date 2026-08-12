@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Spiral Morphology and Radial Migration: Kinematically heating, cooling, and cold](https://arxiv.org/abs/2608.10097)
+* [The Rotation Curve of the Milky Way: State of the Art, the Keplerian Decline Debate, and Implications for Dark Matter](https://arxiv.org/abs/2608.10189)
+* [The Carbon Giant Population Revealed by Gaia DR3](https://arxiv.org/abs/2608.10244)
+* [Mapping the Inner Milky Way with Infrared-Derived Distances to AGB Stars](https://arxiv.org/abs/2608.10577)
 * [The large-scale ordered magnetic field in the Galactic halo and the Local Bubble](https://arxiv.org/abs/2608.07679)
 * [Kings of the Milky Way: A Homogeneous Gaia DR3 Analysis of King Open Clusters and the Galactic Disc Metallicity Gradient](https://arxiv.org/abs/2608.08216)
 * [Detailed Abundance Determination of Metal-Poor Stars with X-Shooter II. - Chemically Disentangling the Halo, Disk and GSE](https://arxiv.org/abs/2608.06666)
