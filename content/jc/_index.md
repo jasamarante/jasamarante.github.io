@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Sr and Ba yields of the First Generation(s) of stars: Constraints from metal-poor stars](https://arxiv.org/abs/2608.17001)
+* [The segmented spiral structure of the Solar neighbourhood traced by young clustered populations](https://arxiv.org/abs/2608.17887)
 * [Improved constraints on the Milky Way potential using the M68 stream and DESI spectroscopic data](https://arxiv.org/abs/2608.15334)
 * [Planetary systems in the light of asteroseismology: metallicity threshold for the planetary systems and age-metallicity relation](https://arxiv.org/abs/2608.15849)
 * [The Hα specific angular momentum of dwarf galaxies](https://arxiv.org/abs/2608.16089)
