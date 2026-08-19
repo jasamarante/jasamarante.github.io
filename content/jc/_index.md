@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Search for a Globular Cluster whose Passage through the Galactic Disk could Trigger the Radcliffe Wave](https://arxiv.org/abs/2608.12028)
+* [Evidence for the First Globular Cluster Stellar Stream beyond the Milky Way](https://arxiv.org/abs/2608.12254)
 * [Spiral Morphology and Radial Migration: Kinematically heating, cooling, and cold](https://arxiv.org/abs/2608.10097)
 * [The Rotation Curve of the Milky Way: State of the Art, the Keplerian Decline Debate, and Implications for Dark Matter](https://arxiv.org/abs/2608.10189)
 * [The Carbon Giant Population Revealed by Gaia DR3](https://arxiv.org/abs/2608.10244)
