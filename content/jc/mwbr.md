@@ -7,6 +7,11 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+### August 19th 2026:
+
+* Otávio: [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies](https://arxiv.org/pdf/2606.23014)
+* Hélio: [A chemo-dynamical search for planet-candidate hosts of possible extragalactic origin](https://arxiv.org/abs/2608.13895)
+
 ### August 4th 2026:
 
 * Nayara: [Exoplanets in ancient stellar populations: occurrence constraints and hot-Jupiter candidates in the Galactic halo](https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp.1298B/abstract)

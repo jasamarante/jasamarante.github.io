@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Improved constraints on the Milky Way potential using the M68 stream and DESI spectroscopic data](https://arxiv.org/abs/2608.15334)
+* [Planetary systems in the light of asteroseismology: metallicity threshold for the planetary systems and age-metallicity relation](https://arxiv.org/abs/2608.15849)
+* [The Hα specific angular momentum of dwarf galaxies](https://arxiv.org/abs/2608.16089)
+* [A chemo-dynamical search for planet-candidate hosts of possible extragalactic origin](https://arxiv.org/abs/2608.13895)
+* [Old Disks Die Hard: How Does AGN Feedback Suppress Disk Formation in Milky Way Mass Galaxies?](https://arxiv.org/abs/2608.13718)
+* [Reconstructing the Stripping History of the Sagittarius Stream with Neural Networks](https://arxiv.org/abs/2605.14308)
 * [Search for a Globular Cluster whose Passage through the Galactic Disk could Trigger the Radcliffe Wave](https://arxiv.org/abs/2608.12028)
 * [Evidence for the First Globular Cluster Stellar Stream beyond the Milky Way](https://arxiv.org/abs/2608.12254)
 * [Spiral Morphology and Radial Migration: Kinematically heating, cooling, and cold](https://arxiv.org/abs/2608.10097)
