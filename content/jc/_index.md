@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Detectable subhalo impacts in Milky Way streams](https://arxiv.org/abs/2608.19321)
+* [A model for the enhanced production rate of early-type hypervelocity stars in the Galactic halo](https://arxiv.org/abs/2608.18475)
 * [Sr and Ba yields of the First Generation(s) of stars: Constraints from metal-poor stars](https://arxiv.org/abs/2608.17001)
 * [The segmented spiral structure of the Solar neighbourhood traced by young clustered populations](https://arxiv.org/abs/2608.17887)
 * [Improved constraints on the Milky Way potential using the M68 stream and DESI spectroscopic data](https://arxiv.org/abs/2608.15334)
