@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [The Random Magnetic Field of the Milky Way](https://arxiv.org/abs/2608.21293)
 * [Detectable subhalo impacts in Milky Way streams](https://arxiv.org/abs/2608.19321)
 * [A model for the enhanced production rate of early-type hypervelocity stars in the Galactic halo](https://arxiv.org/abs/2608.18475)
 * [Sr and Ba yields of the First Generation(s) of stars: Constraints from metal-poor stars](https://arxiv.org/abs/2608.17001)
