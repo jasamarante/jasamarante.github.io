@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-12
+date: 2026-08-25
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [EROSE: An algorithm searching for resolved Local Group satellites. The impact of combining different photometric bands on the detectability of Milky Way satellites in the LSST](https://arxiv.org/abs/2608.21517)
 * [The Random Magnetic Field of the Milky Way](https://arxiv.org/abs/2608.21293)
 * [Detectable subhalo impacts in Milky Way streams](https://arxiv.org/abs/2608.19321)
 * [A model for the enhanced production rate of early-type hypervelocity stars in the Galactic halo](https://arxiv.org/abs/2608.18475)
