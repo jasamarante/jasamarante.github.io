@@ -7,6 +7,10 @@ draft: false
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+### August 26th 2026:
+
+* João Vitor: [A Nearly Pristine Star from the Large Magellanic Cloud](https://arxiv.org/abs/2509.21643)
+
 ### August 19th 2026:
 
 * Otávio: [When bars and spirals conspire: recurrent build-up of the nuclear regions of disc galaxies](https://arxiv.org/pdf/2606.23014)
