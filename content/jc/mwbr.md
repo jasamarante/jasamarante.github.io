@@ -1,6 +1,6 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-08-25
+date: 2026-08-26
 draft: false
 
 ---
