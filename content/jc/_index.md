@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-25
+date: 2026-08-28
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Non-isothermal vertical distribution functions for the Milky Way](https://arxiv.org/abs/2608.27373)
+* [Visualizing Disequilibrium: Tracing Two-Point Correlations to Specific Spatial Structures in the Milky Way](https://arxiv.org/abs/2608.26513)
 * [EROSE: An algorithm searching for resolved Local Group satellites. The impact of combining different photometric bands on the detectability of Milky Way satellites in the LSST](https://arxiv.org/abs/2608.21517)
 * [The Random Magnetic Field of the Milky Way](https://arxiv.org/abs/2608.21293)
 * [Detectable subhalo impacts in Milky Way streams](https://arxiv.org/abs/2608.19321)
