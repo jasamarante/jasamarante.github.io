@@ -1,15 +1,20 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-08-26
+date: 2026-08-31
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+### September 2nd 2026:
+
+* Pedro Henrique: [They Won’t Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution](https://arxiv.org/abs/2608.06204)
+
 ### August 26th 2026:
 
 * João Vitor: [A Nearly Pristine Star from the Large Magellanic Cloud](https://arxiv.org/abs/2509.21643)
+* Guilherme: [The Metallicity Distribution of the Ultra-Faint Dwarf Galaxy Segue 1](https://arxiv.org/abs/2605.12810)
 
 ### August 19th 2026:
 
