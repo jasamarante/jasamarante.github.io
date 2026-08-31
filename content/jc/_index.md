@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [The Age─Thickness Relation as a Tracer of the Merger History of Disk Galaxies](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...34T/abstract)
 * [Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). V. The chronological merger tree of the Milky Way](https://arxiv.org/abs/2608.27611)
 * [An All-Sky Catalog of 6.5 Million Primary Red Clump Stars from Gaia DR3 XP Spectra](https://arxiv.org/abs/2608.28522)
 * [Non-isothermal vertical distribution functions for the Milky Way](https://arxiv.org/abs/2608.27373)
