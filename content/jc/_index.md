@@ -1,6 +1,6 @@
 ---
 
-date: 2026-08-31
+date: 2026-09-01
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## August 2026:
 
+* [Tracing Radial Migration in the Outer Disk: A Comprehensive Analysis of the Old Open Cluster Berkeley 36](https://arxiv.org/abs/2608.29637)
+* [Intermediate-mass runaway and hypervelocity star candidates in DESI DR1](https://arxiv.org/abs/2608.30063)
+* [From spectroscopic abundances to evolutionary [α/Fe] in stellar models](https://arxiv.org/abs/2608.30958)
 * [The Age─Thickness Relation as a Tracer of the Merger History of Disk Galaxies](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...34T/abstract)
 * [Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). V. The chronological merger tree of the Milky Way](https://arxiv.org/abs/2608.27611)
 * [An All-Sky Catalog of 6.5 Million Primary Red Clump Stars from Gaia DR3 XP Spectra](https://arxiv.org/abs/2608.28522)
