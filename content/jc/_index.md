@@ -7,6 +7,14 @@ date: 2026-09-01
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## September 2026:
+
+* [Reconciling Galactic rotation curve constraints with stellar stream modeling](https://arxiv.org/abs/2609.00114)
+* [The Halo Gas of Local Spiral Galaxies and the Link to Gaseous Satellites](https://arxiv.org/abs/2609.00151)
+* [ELVES-Dwarf. II. A Systematic Search for Satellite Systems of Dwarf Galaxies in the Local Volume](https://arxiv.org/abs/2609.00283)
+* [Extragalactic Stellar Streams in Time-Dependent Cosmological Halos](https://arxiv.org/abs/2609.00526)
+* [Slow stellar halo rotation as a signature of disc flips and GES-like mergers](https://arxiv.org/abs/2609.01208)
+
 ## August 2026:
 
 * [Tracing Radial Migration in the Outer Disk: A Comprehensive Analysis of the Old Open Cluster Berkeley 36](https://arxiv.org/abs/2608.29637)
