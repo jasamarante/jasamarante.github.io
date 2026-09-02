@@ -57,6 +57,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## July 2026:
 
+* [Correlation between the two-armed VR spiral in the Z--VZ plane and moving groups](https://arxiv.org/abs/2607.23128)
 * [Superdiffusion at the Galactic Centre](https://arxiv.org/abs/2607.27317)
 * [PANTERA. I. Hunting for the Most Metal-Rich Stars in the Solar Neighborhood with High-Resolution Spectroscopy](https://arxiv.org/abs/2607.27328)
 * [Invariant manifolds in barred galaxy simulations. III. Self-regulated weakening of strong spiral arms](https://arxiv.org/abs/2607.27963)
