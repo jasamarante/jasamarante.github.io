@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-01
+date: 2026-09-03
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [Chemical evolution of Na, Mg, and Al in the Galactic bulge from UVES data](https://arxiv.org/abs/2609.01801)
+* [Is the Nuclear Star Cluster a Bulge Fossil Fragment?](https://arxiv.org/abs/2609.02230)
+* [Galactic tides in the Solar System within a non-axisymmetric Milky Way model adjusted to Gaia data](https://arxiv.org/abs/2609.02693)
 * [Reconciling Galactic rotation curve constraints with stellar stream modeling](https://arxiv.org/abs/2609.00114)
 * [The Halo Gas of Local Spiral Galaxies and the Link to Gaseous Satellites](https://arxiv.org/abs/2609.00151)
 * [ELVES-Dwarf. II. A Systematic Search for Satellite Systems of Dwarf Galaxies in the Local Volume](https://arxiv.org/abs/2609.00283)
