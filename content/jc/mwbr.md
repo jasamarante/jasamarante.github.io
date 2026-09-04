@@ -10,6 +10,7 @@ You can check some nice statistics on this JC [here](https://guilimberg.github.i
 ### September 2nd 2026:
 
 * Pedro Henrique: [They Won’t Be Giants: Missing Metal-Rich RGB Stars in Gaia Data Indicate Truncated Stellar Evolution](https://arxiv.org/abs/2608.06204)
+* Guilherme: [Chemical signatures from the first stars embedded in metal-poor gas in galaxies at cosmic dawn](https://arxiv.org/abs/2606.13078)
 
 ### August 26th 2026:
 
