@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-03
+date: 2026-09-04
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [Same galaxy, different CGM: how the metal loading of galactic winds regulates the baryon cycle in Milky Way-mass galaxies](https://arxiv.org/abs/2609.03083)
+* [Turbulent gas-rich discs at high redshift: the origin of early massive stellar bars](https://arxiv.org/abs/2609.03275)
 * [Chemical evolution of Na, Mg, and Al in the Galactic bulge from UVES data](https://arxiv.org/abs/2609.01801)
 * [Is the Nuclear Star Cluster a Bulge Fossil Fragment?](https://arxiv.org/abs/2609.02230)
 * [Galactic tides in the Solar System within a non-axisymmetric Milky Way model adjusted to Gaia data](https://arxiv.org/abs/2609.02693)
