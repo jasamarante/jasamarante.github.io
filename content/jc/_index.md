@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-10
+date: 2026-09-11
 
 ---
 
@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [The properties of central stellar knots embedded in galactic bulges of CIELO simulations](https://arxiv.org/abs/2609.11465)
+* [Testing Chemical Tagging with LAMOST: Intrinsic Abundance Dispersion of Subgiant Stars in the Galactic Disk](https://arxiv.org/abs/2609.11555)
 * [The internal kinematics and chemistry of 20 Milky Way strings](https://arxiv.org/abs/2609.10147)
 * [The solar Galactocentric distance and local kinematic parameters from Gaia DR3 using Bottlinger's equations](https://arxiv.org/abs/2609.10258)
 * [Phase-Spirals Across Galactic Disks II: Using large-scale "macro-spirals" in phase-spiral amplitude to derive perturbation times](https://arxiv.org/abs/2609.09543)
