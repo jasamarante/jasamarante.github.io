@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-11
+date: 2026-09-15
 
 ---
 
@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [Mapping parameters of idealised hydrodynamic galaxy simulations to bar properties: a case study with the RAMSES code](https://arxiv.org/abs/2609.13404)
+* [Chemo-dynamical Analysis of a CNO-Enhanced Ultra Metal-poor Star ([Fe/H]<−4): Insights into Early Enrichment by Faint Population III Supernova](https://arxiv.org/abs/2609.13373)
+* [Tracing Stellar Populations through the Mg-Al Anti-Correlation in Gaia-ESO Globular Clusters](https://arxiv.org/abs/2609.14901)
+* [Nexus-CDM: Isolated Galaxy Simulations with Cosmologically Evolving Dark-Matter Halos I. Method and Validation](https://arxiv.org/abs/2609.15002)
+* [The driving mode of turbulence in disc galaxy simulations with adaptive mesh refinement](https://arxiv.org/abs/2609.15041)
+* [Constraining the Delay Time Distribution of the r- and s-Process from Stellar Ages at Solar Metallicity](https://arxiv.org/abs/2609.15621)
 * [The properties of central stellar knots embedded in galactic bulges of CIELO simulations](https://arxiv.org/abs/2609.11465)
 * [Testing Chemical Tagging with LAMOST: Intrinsic Abundance Dispersion of Subgiant Stars in the Galactic Disk](https://arxiv.org/abs/2609.11555)
 * [The internal kinematics and chemistry of 20 Milky Way strings](https://arxiv.org/abs/2609.10147)
