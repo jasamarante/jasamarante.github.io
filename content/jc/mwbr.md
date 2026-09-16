@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-09-10
+date: 2026-09-16
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## September 16th 2026:
+
+* Thayse: [Characterising the Globular Cluster Systems of Three Local Group Dwarf Galaxies: NGC 6822, NGC 147 and NGC 185](https://arxiv.org/pdf/2608.28434)
+* Otavio: [Chemical evolution of Na, Mg, and Al in the Galactic bulge from UVES data](https://arxiv.org/abs/2609.01801)
 
 ### September 9th 2026:
 
