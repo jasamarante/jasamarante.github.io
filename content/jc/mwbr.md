@@ -1,11 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-09-16
+date: 2026-09-23
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## September 23rd 2026:
+
+* Nayara: [The Galactic Phosphorus Survey. I. Chemical Evolution across the Galactic Disk from ∼750 FGK Stars](https://arxiv.org/abs/2609.20930)
 
 ## September 16th 2026:
 
