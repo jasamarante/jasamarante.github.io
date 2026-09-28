@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-23
+date: 2026-09-28
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [A Self-Consistent Jeans Analysis of the Milky Way Rotation Curve](https://arxiv.org/abs/2609.30364)
+* [Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy](https://arxiv.org/abs/2609.30615)
+* [Mapping the Milky Way in Six Dimensions: A contiguous, homogenised, phase-space catalogue of Gaia DR3 tracers up to 250 kpc](https://arxiv.org/abs/2609.28652)
+* [A Census of Stellar-mass Black Holes in the Milky Way with POPKIN. I. Isolated Black Holes](https://arxiv.org/abs/2609.29211	)
+* [JWST Observations of the Metal-poor T Dwarf WISEA J155349.96+693355.2: The First Brown Dwarf Associated with the Gaia-Enceladus Milky Way Substructure](https://arxiv.org/abs/2609.29365)
 * [The oldest low-α thin disc stars](https://arxiv.org/abs/2609.25235)
 * [Misaligned tidal tails in open clusters: a signature of the local spiral arm resonance](https://arxiv.org/abs/2609.26626)
 * [Globular cluster candidates uncovered by VVVX and MUSE](https://arxiv.org/abs/2609.26659)
