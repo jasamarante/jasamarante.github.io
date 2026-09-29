@@ -1,6 +1,6 @@
 ---
 
-date: 2026-09-28
+date: 2026-09-29
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## September 2026:
 
+* [Morphological Statistic of Milky Way-like Galaxies](https://arxiv.org/abs/2609.34189)
+* [Large-Scale Spiral Structure of the Milky Way Traced by Young Classical Cepheids](https://arxiv.org/abs/2609.34208)
+* [Trigonometric Parallaxes of Maser Sources toward the Far Side of the Milky Way](https://arxiv.org/abs/2609.34219)
+* [Planets Around Solar Twins/Analogs (PASTA) III: Chemical Clock Relations in Planet-Hosting Solar Analogs](https://arxiv.org/abs/2609.34417)
 * [A Self-Consistent Jeans Analysis of the Milky Way Rotation Curve](https://arxiv.org/abs/2609.30364)
 * [Evidence for the Typhon Stellar Stream as the Remnant of a Recently-disrupted Dwarf Galaxy](https://arxiv.org/abs/2609.30615)
 * [Mapping the Milky Way in Six Dimensions: A contiguous, homogenised, phase-space catalogue of Gaia DR3 tracers up to 250 kpc](https://arxiv.org/abs/2609.28652)
