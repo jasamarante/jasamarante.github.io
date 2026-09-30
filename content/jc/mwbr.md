@@ -1,11 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-09-23
+date: 2026-09-30
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## September 30th 2026:
+
+* João Vitor: [Evidence for the first globular cluster stellar stream beyond the Milky Way](https://www.nature.com/articles/s41586-026-10878-w).
 
 ## September 23rd 2026:
 
