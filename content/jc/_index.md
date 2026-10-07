@@ -1,14 +1,30 @@
 ---
 
-date: 2026-09-29
+date: 2026-10-07
 
 ---
 
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## October 2026:
+
+* [Stellar parameters and abundances for 3.2 million DESI DR1 spectra using machine learning](https://arxiv.org/abs/2610.04294)
+* [Spectroscopic Confirmation of the Milky Way Satellites Boötes V and Leo Minor I and the LMC Satellite DELVE 2: Three Small Ultra-Faint Dwarf Galaxies](https://arxiv.org/abs/2610.07182)
+* [Life in the Cosmic Neighbourhood: Galactic Habitable Zones in the EAGLE Simulations](https://arxiv.org/abs/2610.07450)
+* [Stirred, not shaken: Dislodging ω Centauri from the Sausage galaxy through bar resonances](https://arxiv.org/abs/2610.07581)
+* [A two-stage settling of the Milky Way disk revealed by precise ChronoGal ages](https://arxiv.org/abs/2610.03164)
+
 ## September 2026:
 
+* [The orbital dynamics of the LMC and SMC about the Milky Way](https://arxiv.org/abs/2609.38277)
+* [The Impact of Simulation Resolution on Dwarf Galaxy Stellar Stream Populations in FIRE](https://arxiv.org/abs/2610.00578)
+* [When Streams Curve Away: a Test of Dark Matter from Extragalactic Stellar Stream Populations](https://arxiv.org/abs/2609.40057)
+* [Which Milky Way Streams Make the Best Dark Matter Detectors?](https://arxiv.org/abs/2610.00456)
+* [Snapshots of r-process production in the Milky Way disk](https://arxiv.org/abs/2609.36013)
+* [How well do integral-of-motion distribution functions describe Milky Way-analogue halos?](https://arxiv.org/abs/2609.36283)
+* [Dynamical friction vs. subhalo heating in Cold Dark Matter haloes](https://arxiv.org/abs/2609.36796)
+* [LYRA: The formation and growth of nuclear star clusters in dwarf galaxies](https://arxiv.org/abs/2609.38179)
 * [Morphological Statistic of Milky Way-like Galaxies](https://arxiv.org/abs/2609.34189)
 * [Large-Scale Spiral Structure of the Milky Way Traced by Young Classical Cepheids](https://arxiv.org/abs/2609.34208)
 * [Trigonometric Parallaxes of Maser Sources toward the Far Side of the Milky Way](https://arxiv.org/abs/2609.34219)

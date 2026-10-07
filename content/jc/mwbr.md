@@ -1,15 +1,19 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-09-30
+date: 2026-10-07
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+## October 7th 2026:
+
+* Ingrid: [Quantifying the Milky Way, LMC and their interaction using all-sky kinematics of outer halo stars](https://doi.org/10.1093/mnras/stag926)
+
 ## September 30th 2026:
 
-* João Vitor: [Evidence for the first globular cluster stellar stream beyond the Milky Way](https://www.nature.com/articles/s41586-026-10878-w).
+* João Vitor: [Evidence for the first globular cluster stellar stream beyond the Milky Way](https://www.nature.com/articles/s41586-026-10878-w)
 
 ## September 23rd 2026:
 
