@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-07
+date: 2026-10-09
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [Early onset of the hot circumgalactic medium around Milky Way galaxies](https://arxiv.org/abs/2610.08931)
 * [Stellar parameters and abundances for 3.2 million DESI DR1 spectra using machine learning](https://arxiv.org/abs/2610.04294)
 * [Spectroscopic Confirmation of the Milky Way Satellites Boötes V and Leo Minor I and the LMC Satellite DELVE 2: Three Small Ultra-Faint Dwarf Galaxies](https://arxiv.org/abs/2610.07182)
 * [Life in the Cosmic Neighbourhood: Galactic Habitable Zones in the EAGLE Simulations](https://arxiv.org/abs/2610.07450)
