@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [Measuring radial flows in disc galaxies](https://arxiv.org/abs/2610.11588)
+* [The Binary Fraction of Milky Way Field Stars in DESI: Dependence on Chemical Abundance](https://arxiv.org/abs/2610.11102)
+* [Kinematic and Dynamical Properties of Solar Neighborhood White Dwarfs from SDSS DR19 and Gaia DR3](https://arxiv.org/abs/2610.10675)
 * [Early onset of the hot circumgalactic medium around Milky Way galaxies](https://arxiv.org/abs/2610.08931)
 * [Stellar parameters and abundances for 3.2 million DESI DR1 spectra using machine learning](https://arxiv.org/abs/2610.04294)
 * [Spectroscopic Confirmation of the Milky Way Satellites Boötes V and Leo Minor I and the LMC Satellite DELVE 2: Three Small Ultra-Faint Dwarf Galaxies](https://arxiv.org/abs/2610.07182)
