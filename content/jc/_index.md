@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-09
+date: 2026-10-15
 
 ---
 
@@ -9,6 +9,13 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [Environmental Dependence of Satellite Planarity and Orbital-Pole Coherence around Milky Way Analogues in a Hydrodynamical Cosmological Simulation](https://arxiv.org/abs/2610.16710)
+* [Physical characteristics of the Galaxy defining the oscillation period of librating orbits near the OLR of the bar](https://arxiv.org/abs/2610.17255)
+* [Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). VI. The age-metallicity relation of in-situ clusters and the age of the Universe](https://arxiv.org/abs/2610.14169)
+* [The Galactic disk structure revealed by Gaia XP spectra](https://arxiv.org/abs/2610.15007)
+* [Photometric Identification and Dynamical Purification of Blue Horizontal Branch Stars in DESI MWS DR1](https://arxiv.org/abs/2610.15031)
+* [Modelling the broken age-[Fe/H] relation and metallicity distribution function of mono-age populations](https://arxiv.org/abs/2610.15295)
+* [The Tilt of the Velocity Ellipsoid in the Milky Way Disk with GALAH-Gaia Data](https://arxiv.org/abs/2610.15349)
 * [Measuring radial flows in disc galaxies](https://arxiv.org/abs/2610.11588)
 * [The Binary Fraction of Milky Way Field Stars in DESI: Dependence on Chemical Abundance](https://arxiv.org/abs/2610.11102)
 * [Kinematic and Dynamical Properties of Solar Neighborhood White Dwarfs from SDSS DR19 and Gaia DR3](https://arxiv.org/abs/2610.10675)
