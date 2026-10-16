@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-15
+date: 2026-10-16
 
 ---
 
@@ -9,6 +9,12 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [An Energetic Consistency Test for Feedback-Driven Gas Loss in Milky Way Dwarf Satellites](https://arxiv.org/abs/2610.21186)
+* [Disk tilts in Milky Way-like galaxies and their link to mergers](https://arxiv.org/abs/2610.21226)
+* [Star Formation across the Galaxy](https://arxiv.org/abs/2610.21944)
+* [Dark Matter in the Galaxy: Insights from the Dynamics of Stellar Streams](https://arxiv.org/abs/2610.22202)
+* [A Sample of Thick-Disk Stars Hosting Hot Jupiters](https://arxiv.org/abs/2610.22254)
+* [The Pristine survey XXIX. Data Release 2: Photometric metallicities for 15 millions stars down to G∼20.5](https://arxiv.org/abs/2610.20714)
 * [Environmental Dependence of Satellite Planarity and Orbital-Pole Coherence around Milky Way Analogues in a Hydrodynamical Cosmological Simulation](https://arxiv.org/abs/2610.16710)
 * [Physical characteristics of the Galaxy defining the oscillation period of librating orbits near the OLR of the bar](https://arxiv.org/abs/2610.17255)
 * [Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). VI. The age-metallicity relation of in-situ clusters and the age of the Universe](https://arxiv.org/abs/2610.14169)
