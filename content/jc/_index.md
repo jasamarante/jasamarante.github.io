@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [The Milky Way's Early Disk Was Built in Bursts. I. Evidence from Low-angular-momentum, High-α Stars Scattered Out of the Protodisk by Merger Events](https://arxiv.org/abs/2610.26374)
 * [Hidden Disruption in Milky Way-like Satellite Galaxy Populations](https://arxiv.org/abs/2610.22481)
 * [GASTRO-BH: Effects of a Central Black Hole in GSE-like Dwarf-galaxy Mergers Around Milky Way-like Hosts](https://arxiv.org/abs/2610.22860)
 * [An Energetic Consistency Test for Feedback-Driven Gas Loss in Milky Way Dwarf Satellites](https://arxiv.org/abs/2610.21186)
