@@ -1,11 +1,25 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-10-07
+date: 2026-10-21
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+
+## October 21st 2026:
+
+Milky Way BR Group general meeting
+
+* Matheus Agenor: Metallicity Gradients in the Inner Sagittarius System Revealed by JEDIS
+* Otavio Maia: Efeitos de clumps e GSE na formação e evolução das regiões centrais da Galáxia
+* Henrique Prado: Remanescentes de uma fusão com galáxia anã em simulações idealizadas da Galáxia
+* Julia Mayra Madureira Gomes: Os efeitos de uma fusão com galáxia anã nas regiões internas da Via Láctea
+* Nicholas Schweder Souza: Filling in the stream: a new catalog of candidates for the tidal stream of Omega Centauri
+* Thayse Pacheco: Old Globular Clusters or Cool Stars? The mix of spectral energy distributions in multi-band surveys
+* Maria Luiza Dantas: T-GEX: exploring ultraviolet excess in Sun-like stars and its implications for quiescent galaxies
+* André Rodrigo da Silva: Metal-poor stars found in S-PLUS through the lens of high-resolution spectroscopy
 
 ## October 7th 2026:
 

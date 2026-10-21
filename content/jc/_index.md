@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-20
+date: 2026-10-21
 
 ---
 
@@ -9,6 +9,10 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [A ∧-like metallicity profile in the disk of the Sagittarius dwarf galaxy](https://arxiv.org/abs/2610.27526)
+* [The chemical evolution of the LMC from APOGEE abundances: a hybrid two-infall OMEGA+ analysis](https://arxiv.org/abs/2610.27831)
+* [Understanding the formation of alpha-Fe bimodality in the Milky Way using constrained cosmological simulations of the Local Group](https://arxiv.org/abs/2610.27985)
+* [Data-Driven Ages from Asteroseismology for FGK Dwarfs](https://arxiv.org/abs/2610.28345)
 * [The Milky Way's Early Disk Was Built in Bursts. I. Evidence from Low-angular-momentum, High-α Stars Scattered Out of the Protodisk by Merger Events](https://arxiv.org/abs/2610.26374)
 * [Hidden Disruption in Milky Way-like Satellite Galaxy Populations](https://arxiv.org/abs/2610.22481)
 * [GASTRO-BH: Effects of a Central Black Hole in GSE-like Dwarf-galaxy Mergers Around Milky Way-like Hosts](https://arxiv.org/abs/2610.22860)
