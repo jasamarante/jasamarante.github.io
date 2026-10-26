@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-21
+date: 2026-10-26
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [Binary Dynamics and Mergers in a Stellar Disk and the Formation of Dusty Objects in the Galactic Center](https://arxiv.org/abs/2610.32418)
+* [Stability of rotation axis of galactic disks in HESTIA suite](https://arxiv.org/abs/2610.30922)
+* [The Milky Way's Early Disk Was Built in Bursts. II. The Multi-component Age-Metallicity Structure of the High-α Disk](https://arxiv.org/abs/2610.30659)
+* [Impact of Gaia-Sausage-Enceladus merger revealed by a single cosmic clock: thick-to-thin disc transition, gas disc shrinking and bar formation](https://arxiv.org/abs/2610.30237)
+* [Triaxiality of the Milky Way dark matter halo and the microlensing optical depth towards the Large Magellanic Cloud](https://arxiv.org/abs/2609.08988)
 * [A ∧-like metallicity profile in the disk of the Sagittarius dwarf galaxy](https://arxiv.org/abs/2610.27526)
 * [The chemical evolution of the LMC from APOGEE abundances: a hybrid two-infall OMEGA+ analysis](https://arxiv.org/abs/2610.27831)
 * [Understanding the formation of alpha-Fe bimodality in the Milky Way using constrained cosmological simulations of the Local Group](https://arxiv.org/abs/2610.27985)
