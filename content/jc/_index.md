@@ -1,6 +1,6 @@
 ---
 
-date: 2026-10-26
+date: 2026-10-28
 
 ---
 
@@ -9,6 +9,17 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## October 2026:
 
+* [The [Y/Mg] chemical clock and the stellar ages of solar-type stars in the solar neighbourhood](https://arxiv.org/abs/2610.35917)
+* [What sets the star-formation rate in the Milky Way? I. A multi-scale view of the star-formation rate](https://arxiv.org/abs/2610.36043)
+* [What sets the star-formation rate in the Milky Way?. II. Comparing the star-forming clumps from simulations and observations](https://arxiv.org/abs/2610.36059)
+* [The inner galaxy as a window on its early assembly: lessons from a cosmological Milky Way analogue](https://arxiv.org/abs/2610.36164)
+* [Impact of Gaia-Sausage-Enceladus Debris on Milky Way Escape-velocity Estimates in TNG50](https://arxiv.org/abs/2610.36246)
+* [Simulations agree: the Milky Way's satellites are disrupting](https://arxiv.org/abs/2610.37328)
+* [The Clouds in the "Middle Ages" I. Star formation history and chemical abundances in the LMC](https://arxiv.org/abs/2610.37385)
+* ["Helium Enrichment Law": The Relation Between Helium and Metal Enrichment in Stars in FIRE-3 Simulations of Milky Way-mass Galaxies](https://arxiv.org/abs/2610.37529)
+* [Observational evidence of the Gaia-Enceladus-Sausage merger's influence on the opposite side of the Galactic Center](https://arxiv.org/abs/2610.34001)
+* [Inferring the Total Mass of Galaxy Halos Using Photometry](https://arxiv.org/abs/2610.35366)
+* [Mapping the Milky Way with SDSS-V: Galactic Genesis Selection Function and Mock Catalog](https://arxiv.org/abs/2610.35713)
 * [Binary Dynamics and Mergers in a Stellar Disk and the Formation of Dusty Objects in the Galactic Center](https://arxiv.org/abs/2610.32418)
 * [Stability of rotation axis of galactic disks in HESTIA suite](https://arxiv.org/abs/2610.30922)
 * [The Milky Way's Early Disk Was Built in Bursts. II. The Multi-component Age-Metallicity Structure of the High-α Disk](https://arxiv.org/abs/2610.30659)
