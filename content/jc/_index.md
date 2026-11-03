@@ -1,14 +1,28 @@
 ---
 
-date: 2026-10-28
+date: 2026-11-03
 
 ---
 
 
 Here I maintain a curated list of MW-related papers posted on ArXiv. I try to keep it updated daily. Besides that, you can find the list of Astro-ph papers discussed during the **<span style="color: #FF8C00;">Galaxy Dynamics Group</span>** meeting at UCLan [here](/jc/uclan/), and during the **<span style="color: #FF8C00;">Milky Way Brazilian Group</span>** meeting [here](/jc/mwbr/). Check [my Mendeley library](https://www.mendeley.com/library/community/astro-ph) for a larger collection.
 
+## November 2026:
+
+* [The multiple origins of spurs in stellar streams: a challenge for dark matter diagnostics](https://arxiv.org/abs/2610.41842)
+* [The Pristine Survey. XXX. Mapping substructures in the inner and outer halo with blue horizontal branch stars](https://arxiv.org/abs/2610.41731)
+* [Kinematic Map of the Galactic Bulge Using HST Proper Motions](https://arxiv.org/abs/2610.41395)
+
 ## October 2026:
 
+* [Age-Resolved Vertical Motions in the Milky Way Warp: A Localized Enhancement in Intermediate-Age Populations](https://arxiv.org/abs/2610.38235)
+* [The Influence of Hubble Expansion on the Future Merger of the Milky Way and Andromeda](https://arxiv.org/abs/2610.38490)
+* [ARRAKIHS: The observability of tidally stripped satellites in a Milky Way-like halo](https://arxiv.org/abs/2610.38779)
+* [Detailed chemo-dynamical characterization of four elusive Milky Way star clusters](https://arxiv.org/abs/2610.38923)
+* [Four-hundred Very Metal-poor Stars Studied with LAMOST and Subaru. IV. Heavy Element Enhanced Stars](https://arxiv.org/abs/2610.40014)
+* [Can the ∼5 kpc starburst ring in MW create eROSITA bubbles?](https://arxiv.org/abs/2610.40049)
+* [Playing CHESS with stars II. Homogeneous analysis of high-resolution optical spectra for a sample of 135 giants in 14 bulge globular clusters](https://arxiv.org/abs/2610.40332)
+* [From Dispersion to Metallicity: Probing the Milky Way Circumgalactic Medium with Fast Radio Bursts](https://arxiv.org/abs/2610.40609)
 * [The [Y/Mg] chemical clock and the stellar ages of solar-type stars in the solar neighbourhood](https://arxiv.org/abs/2610.35917)
 * [What sets the star-formation rate in the Milky Way? I. A multi-scale view of the star-formation rate](https://arxiv.org/abs/2610.36043)
 * [What sets the star-formation rate in the Milky Way?. II. Comparing the star-forming clumps from simulations and observations](https://arxiv.org/abs/2610.36059)
