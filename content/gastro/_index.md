@@ -1,5 +1,5 @@
 ---
-title: "GASTRO"
+title: "Gaia–Enceladus–Sausage Timing, chemistRy and Orbit library"
 summary: "A library of N-body/hydrodynamical simulations of Gaia-Sausage-Enceladus-like mergers with Milky Way-like disk galaxies."
 
 date: "2022-07-25T00:00:00Z"
@@ -9,7 +9,7 @@ showToc: true
 
 Credit: Pedro N. Motta
 
-**GASTRO** (*Gaia–Enceladus–Sausage Timing, chemistRy and Orbit*) is a library of simulations of GSE-like mergers with Milky Way-like host galaxies. It is built to connect the chemodynamical imprint of an early massive merger to what we observe in the Galactic halo and disk today.
+Gaia–Enceladus–Sausage Timing, chemistRy and Orbit (**GASTRO**) is a library of simulations of GSE-like mergers with Milky Way-like host galaxies. It is built to connect the chemodynamical imprint of an early massive merger to what we observe in the Galactic halo and disk today.
 
 The library is used to study the stellar halo assembled by the merger, the response of the host disk, and how star-forming clumps change the outcome.
 
