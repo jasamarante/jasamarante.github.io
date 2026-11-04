@@ -5,6 +5,9 @@ summary: "A library of N-body/hydrodynamical simulations of Gaia-Sausage-Encelad
 date: "2022-07-25T00:00:00Z"
 showToc: true
 ---
+{{< video src="/img/gastro.mp4" >}}
+
+Credit: Pedro N. Motta
 
 **GASTRO** (*Gaia–Enceladus–Sausage Timing, chemistRy and Orbit*) is a library of simulations of GSE-like mergers with Milky Way-like host galaxies. It is built to connect the chemodynamical imprint of an early massive merger to what we observe in the Galactic halo and disk today.
 
@@ -34,7 +37,7 @@ Borbolato, L., **Amarante, J. A. S.**, Perottoni, H. D., Rossi, S., Debattista, 
 
 **The edge of the Milky Way's star-forming disc: Evidence from a 'U-shaped' stellar age profile**
 Fiteni, K., Anderson, S. R., Debattista, V. P., Caruana, J., **Amarante, J. A. S.**, Gough-Kelly, S., Eyer, L., Beraldo e Silva, L., Khachaturyants, T., Cuomo, V.
-*Astronomy & Astrophysics*, 708, A252, 2026 [ADS link][https://ui.adsabs.harvard.edu/abs/2026A%26A...708A.252F/abstract]
+*Astronomy & Astrophysics*, 708, A252, 2026 [ADS link](https://ui.adsabs.harvard.edu/abs/2026A%26A...708A.252F/abstract)
 
 ## Simulation movies
 
