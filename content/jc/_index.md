@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-03
+date: 2026-11-05
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [A detailed star formation history of the distant Milky Way satellite Canes Venatici I: An old dwarf spheroidal forming most of its stars after reionisation](https://arxiv.org/abs/2611.05274)
+* [Tidal Evolution of Satellite Dwarf Galaxies. I. Tidal Tracks of Stellar Mass and Structure](https://arxiv.org/abs/2611.04208)
+* [Chemical abundances of a Galactic Centre ejecta discovered in DESI](https://arxiv.org/abs/2611.02409)
+* [See you again: an 80∘ NGC~5466 stellar stream and its constraints on the Galactic dark halo mass](https://arxiv.org/abs/2611.02653)
+* [Kinematic analysis of the TNG50 Milky Way and Andromeda analogues](https://arxiv.org/abs/2611.02920)
 * [The multiple origins of spurs in stellar streams: a challenge for dark matter diagnostics](https://arxiv.org/abs/2610.41842)
 * [The Pristine Survey. XXX. Mapping substructures in the inner and outer halo with blue horizontal branch stars](https://arxiv.org/abs/2610.41731)
 * [Kinematic Map of the Galactic Bulge Using HST Proper Motions](https://arxiv.org/abs/2610.41395)
