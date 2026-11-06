@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-05
+date: 2026-11-06
 
 ---
 
@@ -9,6 +9,16 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [GetGaia 2.0: automatic membership and systemic motions of stellar systems with Gaia](https://arxiv.org/abs/2611.07227)
+* [The Milky Way-like radial structure in nearby galaxies](https://arxiv.org/abs/2611.07338)
+* [The Pristine survey XXXI. A stream offset from the Stream: very metal-poor stellar debris trailing 100∘ from the LMC-SMC system](https://arxiv.org/abs/2611.07563)
+* [Thorium and Europium production in the early Galaxy: Implications for nucleocosmochronology](https://arxiv.org/abs/2611.07697)
+* [She Sees Shells by the Stellar Shore: A Kinematic View of NGC 253's Stellar Halo](https://arxiv.org/abs/2611.05493)
+* [DESI DR2 Results III: The Mass of the Milky Way](https://arxiv.org/abs/2611.05518)
+* [Mock catalogues for the DESI DR2 Milky Way mass modeling effort](https://arxiv.org/abs/2611.05519)
+* [Constraining the Milky Way Mass profile with data driven distribution function using DESI DR2 halo stars](https://arxiv.org/abs/2611.05520)
+* [A distribution-function estimate of the Milky Way mass profile from outer halo stars in DESI DR2](https://arxiv.org/abs/2611.05521)
+* [Investigating the initial conditions of globular clusters via N-body simulations: I. half-mass radius and stellar density](https://arxiv.org/abs/2611.06648)
 * [A detailed star formation history of the distant Milky Way satellite Canes Venatici I: An old dwarf spheroidal forming most of its stars after reionisation](https://arxiv.org/abs/2611.05274)
 * [Tidal Evolution of Satellite Dwarf Galaxies. I. Tidal Tracks of Stellar Mass and Structure](https://arxiv.org/abs/2611.04208)
 * [Chemical abundances of a Galactic Centre ejecta discovered in DESI](https://arxiv.org/abs/2611.02409)
