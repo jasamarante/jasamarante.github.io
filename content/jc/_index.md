@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-06
+date: 2026-11-11
 
 ---
 
@@ -9,6 +9,15 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [Measuring the Milky Way potential with the phase snail shape curves](https://arxiv.org/abs/2611.13837)
+* [A DOLPHOT/Euclid Study of the Resolved, Faint Outer Milky Way Globular Cluster AM-1](https://arxiv.org/abs/2611.10127)
+* [Classical Cepheids in the 4MOST era I: Methodology for 4MOST variable stars and NLTE abundance gradients in the Milky Way](https://arxiv.org/abs/2611.10132)
+* [The hierarchical structure of the Milky Way I. A model-agnostic clustering of 1 billion stars in 5D](https://arxiv.org/abs/2611.10548)
+* [Tidally-induced vertical asymmetries in the LMC bar and disk](https://arxiv.org/abs/2611.10979)
+* [Could globular clusters in the vicinity of the galactic centre have contributed stars to the nuclear star cluster in the past?](https://arxiv.org/abs/2611.12046)
+* [Dust in cold and warm dark matter in a suite of zoom-in simulations of Milky Way analogues](https://arxiv.org/abs/2611.12047)
+* [The Connection between Halo Assembly History and the Stellar Distribution II: A Radially Stratified Fossil Record of Past Halo Mass](https://arxiv.org/abs/2611.12470)
+* [Investigating the timescales traced by dynamical ages in young stellar systems](https://arxiv.org/abs/2611.12594)
 * [GetGaia 2.0: automatic membership and systemic motions of stellar systems with Gaia](https://arxiv.org/abs/2611.07227)
 * [The Milky Way-like radial structure in nearby galaxies](https://arxiv.org/abs/2611.07338)
 * [The Pristine survey XXXI. A stream offset from the Stream: very metal-poor stellar debris trailing 100∘ from the LMC-SMC system](https://arxiv.org/abs/2611.07563)
