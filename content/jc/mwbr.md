@@ -1,12 +1,15 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-10-21
+date: 2026-11-11
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
 
+## November 11th 2026:
+
+* André Rodrigo: [Infrared spectral signatures of light r-process elements in kilonovae](https://arxiv.org/abs/2510.12410)
 
 ## October 21st 2026:
 
