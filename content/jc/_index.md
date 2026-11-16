@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-11
+date: 2026-11-16
 
 ---
 
@@ -9,6 +9,15 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [Beyond the Inner Slope γ: A Schwarzschild-based Probe of the Core-Cusp Problem in the Milky Way Dwarf Spheroidal Galaxies](https://arxiv.org/abs/2611.17835)
+* [The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history](https://arxiv.org/abs/2611.17337)
+* [Globular Clusters in the Time of JWST. II. Looks like the second, moves like the first: the syrphid-like intermediate population of NGC 2808](https://arxiv.org/abs/2611.16150)
+* [Euclid Data Release 1 (DR1). Pushing back the borders of the invisible with Euclid. Discovery of fifteen resolved low-surface-brightness stellar systems from the Milky Way to the Local Volume](https://arxiv.org/abs/2611.16025)
+* [Swept by the Galactic Tide: How Galactic Tides and Stellar Encounters Drive the Evolution of Wide Binaries and Their Giant Planets](https://arxiv.org/abs/2611.15913)
+* [oMEGACat. XI. Kinematic Characterization of Omega Centauri's Subpopulations: A Flattened Primordial Component](https://arxiv.org/html/2611.15866v1)
+* [Measuring Milky Way Mass with RR Lyraes and Blue Horizontal Branch Stars](https://arxiv.org/abs/2611.15560)
+* [The Distant Milky Way Halo from the Southern Hemisphere: Spatially broad and closer stellar debris associated to the Magellanic Stream](https://arxiv.org/abs/2611.15301)
+* [La Silla-QUEST RR Lyrae Survey III: The Shape of the Outer Virgo Overdensity](arxiv.org/abs/2611.14734)
 * [Measuring the Milky Way potential with the phase snail shape curves](https://arxiv.org/abs/2611.13837)
 * [A DOLPHOT/Euclid Study of the Resolved, Faint Outer Milky Way Globular Cluster AM-1](https://arxiv.org/abs/2611.10127)
 * [Classical Cepheids in the 4MOST era I: Methodology for 4MOST variable stars and NLTE abundance gradients in the Milky Way](https://arxiv.org/abs/2611.10132)
