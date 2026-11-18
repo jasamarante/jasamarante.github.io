@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-16
+date: 2026-11-18
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [A COMPASS to the Galaxy: Joint nucleosynthetic yield set comparison and parameter inference in Galactic chemical evolution](https://arxiv.org/abs/2611.21175)
+* [Mapping the obscured Galactic disk: ERIS J-band low-resolution spectroscopy of 27 Classical Cepheids](https://arxiv.org/abs/2611.21128)
+* [The Velocity Curves and Three-Dimensional Kinematics of the Milky Way from Gaia DR3](https://arxiv.org/abs/2611.21042)
+* [The kinematic response of RGB centroids and O--B stars to the Milky Way spiral structure: testing the solid-body rotation of the spiral pattern](https://arxiv.org/abs/2611.20973)
+* [Lindblad and Corotation Resonances as the Common Origin of Moving Groups, Diagonal Ridges, and Velocity Waves in the Milky Way Disc](https://arxiv.org/abs/2611.19391)
 * [Beyond the Inner Slope γ: A Schwarzschild-based Probe of the Core-Cusp Problem in the Milky Way Dwarf Spheroidal Galaxies](https://arxiv.org/abs/2611.17835)
 * [The full Gaia colour-magnitude diagram with white dwarfs reveals a declining Milky Way star formation history](https://arxiv.org/abs/2611.17337)
 * [Globular Clusters in the Time of JWST. II. Looks like the second, moves like the first: the syrphid-like intermediate population of NGC 2808](https://arxiv.org/abs/2611.16150)

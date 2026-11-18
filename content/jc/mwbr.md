@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-11-11
+date: 2026-11-18
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## November 18th 2026:
+
+* Hélio: [Globular Clusters in the Time of JWST. II. Looks like the second, moves like the first: the syrphid-like intermediate population of NGC 2808](https://arxiv.org/abs/2611.16150)
+* Otávio: [The inner galaxy as a window on its early assembly: lessons from a cosmological Milky Way analogue](https://arxiv.org/abs/2610.36164)
 
 ## November 11th 2026:
 
