@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [The meaning of Milky Way mass estimates in the presence of the LMC](https://arxiv.org/abs/2611.21732)
+* [Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars](https://arxiv.org/abs/2611.22091)
+* [oMEGACat-JWST I.: Project description and photometric data release](https://arxiv.org/abs/2611.23150)
 * [A COMPASS to the Galaxy: Joint nucleosynthetic yield set comparison and parameter inference in Galactic chemical evolution](https://arxiv.org/abs/2611.21175)
 * [Mapping the obscured Galactic disk: ERIS J-band low-resolution spectroscopy of 27 Classical Cepheids](https://arxiv.org/abs/2611.21128)
 * [The Velocity Curves and Three-Dimensional Kinematics of the Milky Way from Gaia DR3](https://arxiv.org/abs/2611.21042)
