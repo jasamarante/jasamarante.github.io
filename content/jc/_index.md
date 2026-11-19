@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-18
+date: 2026-11-19
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [Bar formation and secular evolution in live Milky Way-like galaxies](https://arxiv.org/abs/2611.24884)
 * [The meaning of Milky Way mass estimates in the presence of the LMC](https://arxiv.org/abs/2611.21732)
 * [Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars](https://arxiv.org/abs/2611.22091)
 * [oMEGACat-JWST I.: Project description and photometric data release](https://arxiv.org/abs/2611.23150)
