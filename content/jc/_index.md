@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-19
+date: 2026-11-20
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [Eos: a merger-induced starburst at the dawn of Galactic low-α disc formation](https://arxiv.org/abs/2611.25023)
+* [Kinetic Tomography with Diffuse Interstellar Bands in APOGEE DR17](https://arxiv.org/abs/2611.25084)
+* [The non-equilibrium state of the Galactic disk − new insights from GALAH DR4](https://arxiv.org/abs/2611.25804)
+* [On the feasibility of using [Eu/α] to identify accreted and in-situ extragalactic globular clusters](https://arxiv.org/abs/2611.26424)
+* [Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys](https://arxiv.org/abs/2611.26550)
 * [Bar formation and secular evolution in live Milky Way-like galaxies](https://arxiv.org/abs/2611.24884)
 * [The meaning of Milky Way mass estimates in the presence of the LMC](https://arxiv.org/abs/2611.21732)
 * [Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars](https://arxiv.org/abs/2611.22091)
