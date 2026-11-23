@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-20
+date: 2026-11-23
 
 ---
 
@@ -9,6 +9,9 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [High-precision proper motions toward the Galactic bulge Baade's window from a decade of DECam observations](https://arxiv.org/abs/2611.26961)
+* [Interstellar extinction estimates for nearly 90 million stars based on synthetic photometry from Gaia XP spectra](https://arxiv.org/abs/2611.27303)
+* [An early interaction between the Sagittarius dwarf and the Milky Way I: Fossil signatures in the phase-space structure of the disc](https://arxiv.org/abs/2611.27898)
 * [Eos: a merger-induced starburst at the dawn of Galactic low-α disc formation](https://arxiv.org/abs/2611.25023)
 * [Kinetic Tomography with Diffuse Interstellar Bands in APOGEE DR17](https://arxiv.org/abs/2611.25084)
 * [The non-equilibrium state of the Galactic disk − new insights from GALAH DR4](https://arxiv.org/abs/2611.25804)
