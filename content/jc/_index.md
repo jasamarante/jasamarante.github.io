@@ -9,6 +9,8 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [Age dependence of the radial metallicity gradient in the Galactic disc with LAMOST and Gaia](https://arxiv.org/abs/2611.28456)
+* [Chemical structure of the solar neighbourhood with DESI DR1](https://arxiv.org/abs/2611.28475)
 * [High-precision proper motions toward the Galactic bulge Baade's window from a decade of DECam observations](https://arxiv.org/abs/2611.26961)
 * [Interstellar extinction estimates for nearly 90 million stars based on synthetic photometry from Gaia XP spectra](https://arxiv.org/abs/2611.27303)
 * [An early interaction between the Sagittarius dwarf and the Milky Way I: Fossil signatures in the phase-space structure of the disc](https://arxiv.org/abs/2611.27898)
