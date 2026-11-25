@@ -1,11 +1,16 @@
 ---
 title: "MWBR  Journal Club"
-date: 2026-11-18
+date: 2026-11-25
 draft: false
 
 ---
 
 You can check some nice statistics on this JC [here](https://guilimberg.github.io/mwbr-dash-2026May06/).
+
+## November 25th 2026:
+
+* Lais: [Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys](https://arxiv.org/abs/2611.26550)
+* Nayara: [Compositions of Exoplanetary Debris Shaped by Milky Way Stellar Abundance Patterns](https://arxiv.org/abs/2611.21583v1)
 
 ## November 18th 2026:
 
