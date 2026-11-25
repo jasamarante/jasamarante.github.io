@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-24
+date: 2026-11-25
 
 ---
 
@@ -9,6 +9,7 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [The Alma catalog of OB stars. IV. A massive star census of the Magellanic Clouds System](https://arxiv.org/abs/2611.32808)
 * [Age dependence of the radial metallicity gradient in the Galactic disc with LAMOST and Gaia](https://arxiv.org/abs/2611.28456)
 * [Chemical structure of the solar neighbourhood with DESI DR1](https://arxiv.org/abs/2611.28475)
 * [High-precision proper motions toward the Galactic bulge Baade's window from a decade of DECam observations](https://arxiv.org/abs/2611.26961)
