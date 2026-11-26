@@ -1,6 +1,6 @@
 ---
 
-date: 2026-11-25
+date: 2026-11-26
 
 ---
 
@@ -9,6 +9,11 @@ Here I maintain a curated list of MW-related papers posted on ArXiv. I try to ke
 
 ## November 2026:
 
+* [The Splash population confined to the Milky Way bar region](https://arxiv.org/abs/2611.34890)
+* [RR Lyrae stars as distance indicators I. Sample selection and characterisation](https://arxiv.org/abs/2611.33269)
+* [Towards three-dimensional dark matter mapping in the extended solar neighbourhood with Gaia Data Release 3 and deep learning](https://arxiv.org/abs/2611.33660)
+* [The tangled warp of the Milky Way II: The red clump](https://arxiv.org/abs/2611.34625)
+* [State of the UNIONS: Four Milky Way companions discovered in a systematic search for northern Local Group satellites](https://arxiv.org/abs/2611.34775)
 * [The Alma catalog of OB stars. IV. A massive star census of the Magellanic Clouds System](https://arxiv.org/abs/2611.32808)
 * [Age dependence of the radial metallicity gradient in the Galactic disc with LAMOST and Gaia](https://arxiv.org/abs/2611.28456)
 * [Chemical structure of the solar neighbourhood with DESI DR1](https://arxiv.org/abs/2611.28475)
